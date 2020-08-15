@@ -1,23 +1,24 @@
-記錄小弟從高中時期到出社會前的作品&滿滿的辛酸回憶
+記錄小弟從高中時期到出社會前的作品 & 滿滿的辛酸回憶
 
-作品日期 2006 ~ 2014年
-
+作品日期 : 2006 ~ 2014年
 
 ## 項目清冊
 
-* [2006 - 論壇架站機器(PHP)](./Project/Flash_http.md)
-* [2006 - 收集者Blog(PHP)](./Project/Blog.md)
-* [2008 - 希望Online回憶錄(FLASH)](./Project/Blog.md)
-* [2009 - Gblog 2.0(PHP)](./.md)
-* [2010 - 赤坂拉麵(VB)](./markdown.md)
-* [2010 - 競賽遊戲設計(VB)](./markdown.md)
-* [2012 - Winwodw 7登入檔(C#)](./markdown.md)
-* [2012 - Winwodw 7登入檔](./markdown.md)
-* [2012 - Winwodw 7登入檔](./markdown.md)
-* [2012 - Winwodw 7登入檔](./markdown.md)
-* [2012 - Winwodw 7登入檔](./markdown.md)
-* [2012 - Winwodw 7登入檔](./markdown.md)
-* [2012 - 大兵日記(HTML)](./markdown.md)
+* [2006 - 論壇架站機器 (PHP)](./Project/Flash_http.md)
+* [2006 - 收集者Blog (PHP)](./Project/Blog.md)
+* [2008 - 希望Online回憶錄 (FLASH)](./Project/Blog.md)
+* [2009 - Gblog 2.0 (PHP)](./.md)
+* [2010 - 赤坂拉麵 (VB)](./markdown.md)
+* [2010 - 競賽遊戲設計 (VB)](./markdown.md)
+* [2012 - Winwodw 7登入檔 (C#)](./markdown.md)
+* [2012 - Database Tool (C#)](./markdown.md)
+* [2012 - 全台主題樂園 (PHP + C#)](./markdown.md)
+* [2012 - Window Phone 7 App (C#)](./markdown.md)
+* [2012 - Nokia Window Phone 挑戰賽 (C#)](./markdown.md)
+* [2012 - 格子塗鴉牆 (C# + XNA)](./markdown.md)
+* [2012 - 最終戰機 (C# + XNA)](./markdown.md)
+* [2012 - 章魚哥的球 (C# + XNA)](./markdown.md)
+* [2012 - 大兵日記 (HTML)](./markdown.md)
 
 ## 计划
 
