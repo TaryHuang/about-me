@@ -1,0 +1,2 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBOContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBOContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache

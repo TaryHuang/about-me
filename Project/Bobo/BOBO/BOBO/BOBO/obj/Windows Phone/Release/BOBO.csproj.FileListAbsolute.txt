@@ -1,0 +1,213 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\pass.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\exit.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\start.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\MONSTER1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k17.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k18.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k19.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k20.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv17.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv18.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv19.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv20.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num0.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num-1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ChangeBall.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort150.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort151.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort200.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort201.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort250.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort251.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortA0.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortA1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortB0.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortB1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortC0.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortC1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\size.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\sort.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\bar.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\INFO.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ChangeBall2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\BOBO.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\BOBO.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\obj\Windows Phone\Release\BOBO.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\obj\Windows Phone\Release\BOBO.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\BOBO.xap
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\bg.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\pass.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k4.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k5.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k6.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k7.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k8.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k9.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv4.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv5.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv6.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv7.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv8.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv9.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\exit.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\start.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\MONSTER1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k10.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k11.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k12.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k13.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k14.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k15.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k16.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k17.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k18.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k19.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k20.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv10.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv11.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv12.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv13.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv14.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv15.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv16.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv17.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv18.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv19.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv20.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num0.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num4.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num5.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num6.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num7.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num8.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num9.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num-1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ChangeBall.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC3.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort150.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort151.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort200.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort201.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort250.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort251.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortA0.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortA1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortB0.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortB1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortC0.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortC1.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\size.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\sort.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\bar.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\INFO.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ChangeBall2.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\bg.xnb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\BOBO.dll
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\BOBO.pdb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\BOBO.dll
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\BOBO.pdb
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\BOBO.xap
+C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\XapCacheFile.xml

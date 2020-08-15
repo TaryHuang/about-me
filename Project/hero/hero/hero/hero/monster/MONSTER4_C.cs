@@ -1,0 +1,38 @@
+﻿using System;
+using System.Windows.Media;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.Graphics;
+using TARY_Library;
+
+namespace hero
+{
+    public class MONSTER4_C : MONSTER4
+    {
+
+        public MONSTER4_C(Vector2 loc)
+            : base(loc)
+        {
+            V = new TARY_VIMG(GamePage.picMONSTER4_C, loc);
+        }
+
+
+        public override void info()
+        {
+            //＊＊父類別基礎屬性＊＊＊＊
+            SCORE = 61;//擊倒分數
+            HP = 25;//怪物血量
+            ADD_X = 0;//物件位移
+            ADD_Y = 2f;//物件位移
+            //＊＊＊＊＊＊＊＊＊＊＊＊＊
+            randObj = GamePage.randObj;
+            n = 80; //前進多少 才開始觸發事件
+
+            Nmin = 180;//發射延遲時間最少
+            Nmax = 250;//發射延遲時間最多
+
+            MinY = 0; //飄移最小值
+            MaxY = 450;//飄移最大值
+        }
+    }
+}

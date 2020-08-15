@@ -1,0 +1,902 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>t1.png</Source>
+      <Name>t1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t1.xnb</Output>
+      <Time>2012-09-23T17:51:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pass.png</Source>
+      <Name>pass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\pass.xnb</Output>
+      <Time>2012-04-09T13:42:49.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k1.png</Source>
+      <Name>k1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k1.xnb</Output>
+      <Time>2012-04-14T16:17:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k2.png</Source>
+      <Name>k2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k2.xnb</Output>
+      <Time>2012-04-14T16:16:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k3.png</Source>
+      <Name>k3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k3.xnb</Output>
+      <Time>2012-04-14T16:16:19.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k4.png</Source>
+      <Name>k4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k4.xnb</Output>
+      <Time>2012-04-14T16:16:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k5.png</Source>
+      <Name>k5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k5.xnb</Output>
+      <Time>2012-04-14T16:15:53.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k6.png</Source>
+      <Name>k6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k6.xnb</Output>
+      <Time>2012-04-14T16:15:39.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k7.png</Source>
+      <Name>k7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k7.xnb</Output>
+      <Time>2012-04-14T16:15:25.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k8.png</Source>
+      <Name>k8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k8.xnb</Output>
+      <Time>2012-04-14T16:15:11.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k9.png</Source>
+      <Name>k9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k9.xnb</Output>
+      <Time>2012-04-14T16:14:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv1.png</Source>
+      <Name>lv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv1.xnb</Output>
+      <Time>2012-04-14T16:17:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv2.png</Source>
+      <Name>lv2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv2.xnb</Output>
+      <Time>2012-04-14T16:17:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv3.png</Source>
+      <Name>lv3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv3.xnb</Output>
+      <Time>2012-04-14T16:17:57.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv4.png</Source>
+      <Name>lv4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv4.xnb</Output>
+      <Time>2012-04-14T16:18:09.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv5.png</Source>
+      <Name>lv5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv5.xnb</Output>
+      <Time>2012-04-14T16:18:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv6.png</Source>
+      <Name>lv6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv6.xnb</Output>
+      <Time>2012-04-14T16:18:47.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv7.png</Source>
+      <Name>lv7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv7.xnb</Output>
+      <Time>2012-04-14T16:19:03.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv8.png</Source>
+      <Name>lv8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv8.xnb</Output>
+      <Time>2012-04-14T16:19:16.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv9.png</Source>
+      <Name>lv9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv9.xnb</Output>
+      <Time>2012-04-14T16:19:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\exit.xnb</Output>
+      <Time>2012-09-24T02:46:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\start.xnb</Output>
+      <Time>2012-09-24T02:46:33.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>L1.png</Source>
+      <Name>L1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L1.xnb</Output>
+      <Time>2012-04-09T21:23:35.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>L2.png</Source>
+      <Name>L2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L2.xnb</Output>
+      <Time>2012-04-09T21:22:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>L.png</Source>
+      <Name>L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L.xnb</Output>
+      <Time>2012-09-23T16:08:36.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>L3.png</Source>
+      <Name>L3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\L3.xnb</Output>
+      <Time>2012-04-09T23:03:57.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>t2.png</Source>
+      <Name>t2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t2.xnb</Output>
+      <Time>2012-04-09T23:45:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>MONSTER1.png</Source>
+      <Name>MONSTER1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\MONSTER1.xnb</Output>
+      <Time>2012-09-23T19:43:33.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k10.png</Source>
+      <Name>k10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k10.xnb</Output>
+      <Time>2012-04-14T15:37:47.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k11.png</Source>
+      <Name>k11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k11.xnb</Output>
+      <Time>2012-04-14T15:37:59.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k12.png</Source>
+      <Name>k12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k12.xnb</Output>
+      <Time>2012-04-14T15:38:13.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k13.png</Source>
+      <Name>k13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k13.xnb</Output>
+      <Time>2012-04-14T15:38:27.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k14.png</Source>
+      <Name>k14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k14.xnb</Output>
+      <Time>2012-04-14T15:38:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k15.png</Source>
+      <Name>k15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k15.xnb</Output>
+      <Time>2012-04-14T15:38:55.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k16.png</Source>
+      <Name>k16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k16.xnb</Output>
+      <Time>2012-04-14T15:39:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k17.png</Source>
+      <Name>k17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k17.xnb</Output>
+      <Time>2012-04-14T15:39:27.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k18.png</Source>
+      <Name>k18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k18.xnb</Output>
+      <Time>2012-04-14T15:39:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k19.png</Source>
+      <Name>k19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k19.xnb</Output>
+      <Time>2012-04-14T15:39:53.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>k20.png</Source>
+      <Name>k20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\k20.xnb</Output>
+      <Time>2012-04-14T15:40:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv10.png</Source>
+      <Name>lv10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv10.xnb</Output>
+      <Time>2012-04-14T15:36:55.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv11.png</Source>
+      <Name>lv11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv11.xnb</Output>
+      <Time>2012-04-14T15:36:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv12.png</Source>
+      <Name>lv12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv12.xnb</Output>
+      <Time>2012-04-14T15:36:25.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv13.png</Source>
+      <Name>lv13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv13.xnb</Output>
+      <Time>2012-04-14T15:36:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv14.png</Source>
+      <Name>lv14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv14.xnb</Output>
+      <Time>2012-04-14T15:35:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv15.png</Source>
+      <Name>lv15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv15.xnb</Output>
+      <Time>2012-04-14T15:35:36.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv16.png</Source>
+      <Name>lv16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv16.xnb</Output>
+      <Time>2012-04-14T15:35:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv17.png</Source>
+      <Name>lv17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv17.xnb</Output>
+      <Time>2012-04-14T15:35:11.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv18.png</Source>
+      <Name>lv18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv18.xnb</Output>
+      <Time>2012-04-14T15:34:59.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv19.png</Source>
+      <Name>lv19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv19.xnb</Output>
+      <Time>2012-04-14T15:34:36.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lv20.png</Source>
+      <Name>lv20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\lv20.xnb</Output>
+      <Time>2012-04-14T15:34:21.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>t3.png</Source>
+      <Name>t3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\t3.xnb</Output>
+      <Time>2012-04-18T23:52:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num.png</Source>
+      <Name>num</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num.xnb</Output>
+      <Time>2012-09-22T02:30:43.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num0.png</Source>
+      <Name>num0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num0.xnb</Output>
+      <Time>2012-09-22T01:30:35.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num1.png</Source>
+      <Name>num1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num1.xnb</Output>
+      <Time>2012-09-22T01:32:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num2.png</Source>
+      <Name>num2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num2.xnb</Output>
+      <Time>2012-09-22T01:32:03.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num3.png</Source>
+      <Name>num3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num3.xnb</Output>
+      <Time>2012-09-22T01:31:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num4.png</Source>
+      <Name>num4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num4.xnb</Output>
+      <Time>2012-09-22T01:31:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num5.png</Source>
+      <Name>num5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num5.xnb</Output>
+      <Time>2012-09-22T01:31:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num6.png</Source>
+      <Name>num6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num6.xnb</Output>
+      <Time>2012-09-22T01:31:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num7.png</Source>
+      <Name>num7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num7.xnb</Output>
+      <Time>2012-09-22T01:31:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num8.png</Source>
+      <Name>num8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num8.xnb</Output>
+      <Time>2012-09-22T01:30:59.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num9.png</Source>
+      <Name>num9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num9.xnb</Output>
+      <Time>2012-09-22T01:30:51.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board.xnb</Output>
+      <Time>2012-09-24T02:46:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>num-1.png</Source>
+      <Name>num-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\num-1.xnb</Output>
+      <Time>2012-09-22T21:03:33.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>board1.png</Source>
+      <Name>board1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board1.xnb</Output>
+      <Time>2012-09-23T01:03:49.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>board2.png</Source>
+      <Name>board2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\board2.xnb</Output>
+      <Time>2012-09-23T01:27:17.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ChangeBall.png</Source>
+      <Name>ChangeBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ChangeBall.xnb</Output>
+      <Time>2012-09-24T02:47:01.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballA1.png</Source>
+      <Name>ballA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA1.xnb</Output>
+      <Time>2012-09-23T11:19:31.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballA2.png</Source>
+      <Name>ballA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA2.xnb</Output>
+      <Time>2012-09-23T11:22:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballA3.png</Source>
+      <Name>ballA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballA3.xnb</Output>
+      <Time>2012-09-23T11:23:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballB1.png</Source>
+      <Name>ballB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB1.xnb</Output>
+      <Time>2012-09-23T11:20:29.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballB2.png</Source>
+      <Name>ballB2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB2.xnb</Output>
+      <Time>2012-09-23T11:22:13.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballB3.png</Source>
+      <Name>ballB3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballB3.xnb</Output>
+      <Time>2012-09-23T11:23:43.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballC1.png</Source>
+      <Name>ballC1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC1.xnb</Output>
+      <Time>2012-09-23T11:20:45.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballC2.png</Source>
+      <Name>ballC2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC2.xnb</Output>
+      <Time>2012-09-23T11:21:59.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballC3.png</Source>
+      <Name>ballC3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballC3.xnb</Output>
+      <Time>2012-09-23T11:23:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsort.png</Source>
+      <Name>ballsort</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort.xnb</Output>
+      <Time>2012-09-23T12:04:57.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsort150.png</Source>
+      <Name>ballsort150</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort150.xnb</Output>
+      <Time>2012-09-23T12:02:07.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsort151.png</Source>
+      <Name>ballsort151</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort151.xnb</Output>
+      <Time>2012-09-23T11:59:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsort200.png</Source>
+      <Name>ballsort200</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort200.xnb</Output>
+      <Time>2012-09-23T12:01:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsort201.png</Source>
+      <Name>ballsort201</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort201.xnb</Output>
+      <Time>2012-09-23T11:59:41.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsort250.png</Source>
+      <Name>ballsort250</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort250.xnb</Output>
+      <Time>2012-09-23T12:01:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsort251.png</Source>
+      <Name>ballsort251</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsort251.xnb</Output>
+      <Time>2012-09-23T12:00:01.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsortA0.png</Source>
+      <Name>ballsortA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortA0.xnb</Output>
+      <Time>2012-09-23T12:02:33.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsortA1.png</Source>
+      <Name>ballsortA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortA1.xnb</Output>
+      <Time>2012-09-23T11:58:27.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsortB0.png</Source>
+      <Name>ballsortB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortB0.xnb</Output>
+      <Time>2012-09-23T12:02:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsortB1.png</Source>
+      <Name>ballsortB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortB1.xnb</Output>
+      <Time>2012-09-23T11:58:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsortC0.png</Source>
+      <Name>ballsortC0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortC0.xnb</Output>
+      <Time>2012-09-23T12:03:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballsortC1.png</Source>
+      <Name>ballsortC1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ballsortC1.xnb</Output>
+      <Time>2012-09-23T11:58:51.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>size.png</Source>
+      <Name>size</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\size.xnb</Output>
+      <Time>2012-09-23T16:05:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sort.png</Source>
+      <Name>sort</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\sort.xnb</Output>
+      <Time>2012-09-23T16:05:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bar.png</Source>
+      <Name>bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\bar.xnb</Output>
+      <Time>2012-09-23T17:21:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>INFO.png</Source>
+      <Name>INFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\INFO.xnb</Output>
+      <Time>2012-09-24T02:20:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ChangeBall2.png</Source>
+      <Name>ChangeBall2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\ChangeBall2.xnb</Output>
+      <Time>2012-09-24T01:49:59.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\bg.xnb</Output>
+      <Time>2012-09-24T03:09:18.9999999+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A38F2AF2-AE50-4AB8-A972-B1E930996E8B}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBOContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tary\Desktop\分享\章魚哥的球\BOBO\BOBO\BOBO\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-21T22:27:54.2138618+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

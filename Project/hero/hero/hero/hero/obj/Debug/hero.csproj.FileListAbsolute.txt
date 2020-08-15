@@ -1,0 +1,1193 @@
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\hero.dll
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\hero.pdb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\hero.xap
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\heroLib.dll
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\heroLib.pdb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\GamePage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\hero.g.resources
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\hero.dll
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\hero.pdb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\obj\Debug\XapCacheFile.xml
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\TARY_Library.dll
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\TARY_Library.pdb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\BAR.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\bg\bg1.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv1.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv10.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv11.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv12.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv13.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv14.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv15.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv16.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv17.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv18.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv19.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv2.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv20.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv3.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv4.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv5.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv6.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv7.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv8.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv9.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk1.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk10.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk11.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk12.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk13.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk14.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk15.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk16.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk17.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk18.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk19.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk2.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk20.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk3.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk4.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk5.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk6.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk7.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk8.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk9.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv1.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv10.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv11.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv12.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv13.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv14.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv15.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv16.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv17.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv18.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv19.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv2.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv20.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv3.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv4.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv5.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv6.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv7.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv8.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv9.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk1.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk10.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk11.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk12.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk13.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk14.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk15.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk16.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk17.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk18.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk19.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk2.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk20.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk3.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk4.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk5.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk6.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk7.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk8.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk9.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\menu\exit.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\menu\start.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\msg\msg1.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\msg\msgN.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\msg\msgY.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num0.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num1.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num10.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num11.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num2.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num3.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num4.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num5.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num6.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num7.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num8.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num9.xnb
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\hero.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVE.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVE2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num0.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num10.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num11.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num4.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num5.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num6.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num7.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num8.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num9.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\Level.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\gameover.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num16.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ball5.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star4.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star5.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star6.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star7.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star8.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\hFires.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\mFired.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\hDead.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\hFired.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\mDead.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\mFires.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\ball_M2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM2_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM2_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM2_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ball1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballA1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballA2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballA3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballC1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballC2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballC3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballB1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballB2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballB3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num0.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num10.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num11.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num12.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num13.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num14.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num15.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num4.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num5.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num7.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num8.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num9.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num6.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num16.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP4_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ONEP4_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\getHP.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\getPower.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\bar2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\GameTeach.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\myScore.g.i.cs
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\ApplicationIcon.png
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Background.png
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\BAR.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\bg\bg1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv10.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv11.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv12.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv13.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv14.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv15.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv16.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv17.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv18.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv19.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv20.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lv9.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk10.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk11.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk12.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk13.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk14.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk15.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk16.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk17.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk18.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk19.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk20.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\lvk9.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv10.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv11.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv12.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv13.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv14.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv15.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv16.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv17.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv18.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv19.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv20.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lv9.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk10.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk11.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk12.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk13.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk14.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk15.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk16.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk17.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk18.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk19.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk20.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk9.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\menu\exit.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\menu\start.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\msg\msg1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\msg\msgN.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\msg\msgY.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num0.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num10.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num11.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num9.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\hero.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num0.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num10.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num11.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num12.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num13.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num14.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num15.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num9.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVE.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVE2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num0.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num10.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num11.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num9.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\Level.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\p\p8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\gameover.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num12.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num13.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num14.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num15.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number1\num16.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num12.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num13.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num14.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num15.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number2\num16.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ball5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star4.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star6.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star7.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\star8.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM2_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM2_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM2_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ball1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballA1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballA2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballA3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballC1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballC2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballC3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballB1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballB2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballB3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\lib\number3\num16.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP4_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ONEP4_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\bar2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\hFires.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\mFired.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\hDead.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\hFired.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\mDead.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\mFires.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\ball_M2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\getHP.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\music\getPower.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\hero.dll
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\hero.pdb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\AppManifest.xaml
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\hero.xap
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\heroLib.dll
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\TARY_Library.dll
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\heroLib.pdb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\TARY_Library.pdb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\App.g.i.cs
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\GamePage.g.i.cs
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\GameTeach.g.i.cs
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\MainPage.g.i.cs
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\myScore.g.i.cs
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\hero.g.resources
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\hero.dll
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\hero.pdb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Debug\XapCacheFile.xml
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\starS1.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\starS2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP2_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP2_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ONEP2_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\starS1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\starS2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP2_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\oneP2_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ONEP2_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM3_A.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM3_B.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM3_C.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\SCORE.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\GameEND.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVES.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVES2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVESS.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVESS2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM3_A.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM3_B.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\ballM3_C.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\SCORE.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\GameEND.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVES.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVES2.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVESS.xnb
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\LOVESS2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\USER\documents\visual studio 2010\Projects\hero\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\App.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\GamePage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\GameTeach.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\MainPage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\myScore.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.g.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.LanguageData.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.Language.Language.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.Language.Language.zh-CN.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.Language.Language.zh-TW.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.Language.Language.ja-JP.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.Language.Language.en-US.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\hero.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\BAR.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\bg\bg1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lv9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\lvk9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lv9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\menu\exit.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\menu\start.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\msg\msg1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\msg\msgN.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\msg\msgY.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\hero.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\LOVE.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\LOVE2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\Level.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\p\p8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\gameover.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number1\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number2\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ball5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\star8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballM2_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballM2_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballM2_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ball1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballA1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballA2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballA3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballC1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballC2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballC3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballB1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballB2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballB3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\oneP1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\oneP3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\lib\number3\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\oneP4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ONEP4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\bar2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\starS1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\starS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\oneP2_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\oneP2_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ONEP2_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballM3_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballM3_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\ballM3_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\SCORE.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\GameEND.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\LOVES.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\LOVES2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\LOVESS.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\LOVESS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\hFires.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\mFired.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\hDead.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\hFired.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\mDead.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\mFires.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\ball_M2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\getHP.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Content\music\getPower.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\ApplicationIcon.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Background.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\ImagesLib\TaryPage\people.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\ImagesLib\TaryPage\star.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\ImagesLib\TaryPage\star2.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\ImagesLib\TaryPage\unlock.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\hero.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\hero.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\zh-CN\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\zh-TW\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\ja-JP\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\en-US\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\AppManifest.xaml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\hero.xap
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\heroLib.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\TARY_Library.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\TARY_Library_Silverlight.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\heroLib.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\zh-CN\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\zh-TW\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\ja-JP\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\en-US\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Debug\XapCacheFile.xml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\BAR.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\bg\bg1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lv9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\lvk9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lv9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\lv1\R\lvk9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\menu\exit.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\menu\start.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\msg\msg1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\msg\msgN.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\msg\msgY.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\hero.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\LOVE.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\LOVE2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\Level.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\p\p8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\gameover.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number1\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number2\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ball5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\star8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\boss3_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballM2_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballM2_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballM2_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ball1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballA1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballA2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballA3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballC1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballC2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballC3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballB1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballB2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballB3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\oneP1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\oneP3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\lib\number3\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\oneP4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ONEP4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\bar2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\starS1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\starS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\oneP2_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\oneP2_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ONEP2_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\boss7_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballM3_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballM3_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\ballM3_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\SCORE.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\GameEND.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\LOVES.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\LOVES2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\LOVESS.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\LOVESS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\hFires.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\mFired.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\hDead.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\hFired.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\mDead.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\mFires.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\ball_M2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\getHP.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Content\music\getPower.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\ApplicationIcon.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Background.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\ImagesLib\TaryPage\people.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\ImagesLib\TaryPage\star.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\ImagesLib\TaryPage\star2.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\ImagesLib\TaryPage\unlock.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\hero.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\hero.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\zh-CN\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\zh-TW\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\ja-JP\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\en-US\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\AppManifest.xaml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\hero.xap
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\heroLib.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\TARY_Library.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\TARY_Library_Silverlight.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\heroLib.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\App.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\GamePage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\GameTeach.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\MainPage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\myScore.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.g.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.LanguageData.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.Language.Language.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.Language.Language.zh-CN.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.Language.Language.zh-TW.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.Language.Language.ja-JP.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.Language.Language.en-US.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\zh-CN\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\zh-TW\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\ja-JP\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\en-US\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\hero.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Debug\XapCacheFile.xml

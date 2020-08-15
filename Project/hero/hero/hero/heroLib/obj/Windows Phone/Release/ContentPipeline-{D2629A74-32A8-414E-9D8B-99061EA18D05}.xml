@@ -1,0 +1,2450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BAR.png</Source>
+      <Name>BAR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\BAR.xnb</Output>
+      <Time>2012-10-18T00:34:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\bg\bg1.png</Source>
+      <Name>lib\bg\bg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\bg\bg1.xnb</Output>
+      <Time>2012-09-24T03:09:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv1.png</Source>
+      <Name>lib\lv1\lv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv1.xnb</Output>
+      <Time>2012-04-14T16:17:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv10.png</Source>
+      <Name>lib\lv1\lv10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv10.xnb</Output>
+      <Time>2012-04-14T15:36:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv11.png</Source>
+      <Name>lib\lv1\lv11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv11.xnb</Output>
+      <Time>2012-04-14T15:36:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv12.png</Source>
+      <Name>lib\lv1\lv12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv12.xnb</Output>
+      <Time>2012-04-14T15:36:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv13.png</Source>
+      <Name>lib\lv1\lv13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv13.xnb</Output>
+      <Time>2012-04-14T15:36:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv14.png</Source>
+      <Name>lib\lv1\lv14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv14.xnb</Output>
+      <Time>2012-04-14T15:35:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv15.png</Source>
+      <Name>lib\lv1\lv15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv15.xnb</Output>
+      <Time>2012-04-14T15:35:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv16.png</Source>
+      <Name>lib\lv1\lv16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv16.xnb</Output>
+      <Time>2012-04-14T15:35:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv17.png</Source>
+      <Name>lib\lv1\lv17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv17.xnb</Output>
+      <Time>2012-04-14T15:35:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv18.png</Source>
+      <Name>lib\lv1\lv18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv18.xnb</Output>
+      <Time>2012-04-14T15:35:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv19.png</Source>
+      <Name>lib\lv1\lv19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv19.xnb</Output>
+      <Time>2012-04-14T15:34:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv2.png</Source>
+      <Name>lib\lv1\lv2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv2.xnb</Output>
+      <Time>2012-04-14T16:17:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv20.png</Source>
+      <Name>lib\lv1\lv20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv20.xnb</Output>
+      <Time>2012-04-14T15:34:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv3.png</Source>
+      <Name>lib\lv1\lv3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv3.xnb</Output>
+      <Time>2012-04-14T16:17:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv4.png</Source>
+      <Name>lib\lv1\lv4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv4.xnb</Output>
+      <Time>2012-04-14T16:18:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv5.png</Source>
+      <Name>lib\lv1\lv5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv5.xnb</Output>
+      <Time>2012-04-14T16:18:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv6.png</Source>
+      <Name>lib\lv1\lv6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv6.xnb</Output>
+      <Time>2012-04-14T16:18:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv7.png</Source>
+      <Name>lib\lv1\lv7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv7.xnb</Output>
+      <Time>2012-04-14T16:19:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv8.png</Source>
+      <Name>lib\lv1\lv8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv8.xnb</Output>
+      <Time>2012-04-14T16:19:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lv9.png</Source>
+      <Name>lib\lv1\lv9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lv9.xnb</Output>
+      <Time>2012-04-14T16:19:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk1.png</Source>
+      <Name>lib\lv1\lvk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk1.xnb</Output>
+      <Time>2012-04-14T16:17:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk10.png</Source>
+      <Name>lib\lv1\lvk10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk10.xnb</Output>
+      <Time>2012-04-14T15:37:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk11.png</Source>
+      <Name>lib\lv1\lvk11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk11.xnb</Output>
+      <Time>2012-04-14T15:38:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk12.png</Source>
+      <Name>lib\lv1\lvk12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk12.xnb</Output>
+      <Time>2012-04-14T15:38:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk13.png</Source>
+      <Name>lib\lv1\lvk13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk13.xnb</Output>
+      <Time>2012-04-14T15:38:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk14.png</Source>
+      <Name>lib\lv1\lvk14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk14.xnb</Output>
+      <Time>2012-04-14T15:38:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk15.png</Source>
+      <Name>lib\lv1\lvk15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk15.xnb</Output>
+      <Time>2012-04-14T15:38:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk16.png</Source>
+      <Name>lib\lv1\lvk16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk16.xnb</Output>
+      <Time>2012-04-14T15:39:16.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk17.png</Source>
+      <Name>lib\lv1\lvk17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk17.xnb</Output>
+      <Time>2012-04-14T15:39:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk18.png</Source>
+      <Name>lib\lv1\lvk18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk18.xnb</Output>
+      <Time>2012-04-14T15:39:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk19.png</Source>
+      <Name>lib\lv1\lvk19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk19.xnb</Output>
+      <Time>2012-04-14T15:39:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk2.png</Source>
+      <Name>lib\lv1\lvk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk2.xnb</Output>
+      <Time>2012-04-14T16:16:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk20.png</Source>
+      <Name>lib\lv1\lvk20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk20.xnb</Output>
+      <Time>2012-04-14T15:40:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk3.png</Source>
+      <Name>lib\lv1\lvk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk3.xnb</Output>
+      <Time>2012-04-14T16:16:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk4.png</Source>
+      <Name>lib\lv1\lvk4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk4.xnb</Output>
+      <Time>2012-04-14T16:16:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk5.png</Source>
+      <Name>lib\lv1\lvk5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk5.xnb</Output>
+      <Time>2012-04-14T16:15:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk6.png</Source>
+      <Name>lib\lv1\lvk6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk6.xnb</Output>
+      <Time>2012-04-14T16:15:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk7.png</Source>
+      <Name>lib\lv1\lvk7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk7.xnb</Output>
+      <Time>2012-04-14T16:15:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk8.png</Source>
+      <Name>lib\lv1\lvk8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk8.xnb</Output>
+      <Time>2012-04-14T16:15:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\lvk9.png</Source>
+      <Name>lib\lv1\lvk9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\lvk9.xnb</Output>
+      <Time>2012-04-14T16:15:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv1.png</Source>
+      <Name>lib\lv1\R\lv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv1.xnb</Output>
+      <Time>2012-10-01T11:11:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv10.png</Source>
+      <Name>lib\lv1\R\lv10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv10.xnb</Output>
+      <Time>2012-10-01T11:11:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv11.png</Source>
+      <Name>lib\lv1\R\lv11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv11.xnb</Output>
+      <Time>2012-10-01T11:12:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv12.png</Source>
+      <Name>lib\lv1\R\lv12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv12.xnb</Output>
+      <Time>2012-10-01T11:12:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv13.png</Source>
+      <Name>lib\lv1\R\lv13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv13.xnb</Output>
+      <Time>2012-10-01T11:12:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv14.png</Source>
+      <Name>lib\lv1\R\lv14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv14.xnb</Output>
+      <Time>2012-10-01T11:12:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv15.png</Source>
+      <Name>lib\lv1\R\lv15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv15.xnb</Output>
+      <Time>2012-10-01T11:12:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv16.png</Source>
+      <Name>lib\lv1\R\lv16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv16.xnb</Output>
+      <Time>2012-10-01T11:12:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv17.png</Source>
+      <Name>lib\lv1\R\lv17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv17.xnb</Output>
+      <Time>2012-10-01T11:12:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv18.png</Source>
+      <Name>lib\lv1\R\lv18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv18.xnb</Output>
+      <Time>2012-10-01T11:12:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv19.png</Source>
+      <Name>lib\lv1\R\lv19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv19.xnb</Output>
+      <Time>2012-10-01T11:12:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv2.png</Source>
+      <Name>lib\lv1\R\lv2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv2.xnb</Output>
+      <Time>2012-10-01T11:11:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv20.png</Source>
+      <Name>lib\lv1\R\lv20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv20.xnb</Output>
+      <Time>2012-10-01T11:12:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv3.png</Source>
+      <Name>lib\lv1\R\lv3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv3.xnb</Output>
+      <Time>2012-10-01T11:11:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv4.png</Source>
+      <Name>lib\lv1\R\lv4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv4.xnb</Output>
+      <Time>2012-10-01T11:11:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv5.png</Source>
+      <Name>lib\lv1\R\lv5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv5.xnb</Output>
+      <Time>2012-10-01T11:11:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv6.png</Source>
+      <Name>lib\lv1\R\lv6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv6.xnb</Output>
+      <Time>2012-10-01T11:11:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv7.png</Source>
+      <Name>lib\lv1\R\lv7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv7.xnb</Output>
+      <Time>2012-10-01T11:11:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv8.png</Source>
+      <Name>lib\lv1\R\lv8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv8.xnb</Output>
+      <Time>2012-10-01T11:11:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lv9.png</Source>
+      <Name>lib\lv1\R\lv9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lv9.xnb</Output>
+      <Time>2012-10-01T11:11:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk1.png</Source>
+      <Name>lib\lv1\R\lvk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk1.xnb</Output>
+      <Time>2012-10-01T11:12:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk10.png</Source>
+      <Name>lib\lv1\R\lvk10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk10.xnb</Output>
+      <Time>2012-10-01T11:12:16.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk11.png</Source>
+      <Name>lib\lv1\R\lvk11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk11.xnb</Output>
+      <Time>2012-10-01T11:12:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk12.png</Source>
+      <Name>lib\lv1\R\lvk12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk12.xnb</Output>
+      <Time>2012-10-01T11:12:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk13.png</Source>
+      <Name>lib\lv1\R\lvk13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk13.xnb</Output>
+      <Time>2012-10-01T11:12:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk14.png</Source>
+      <Name>lib\lv1\R\lvk14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk14.xnb</Output>
+      <Time>2012-10-01T11:12:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk15.png</Source>
+      <Name>lib\lv1\R\lvk15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk15.xnb</Output>
+      <Time>2012-10-01T11:12:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk16.png</Source>
+      <Name>lib\lv1\R\lvk16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk16.xnb</Output>
+      <Time>2012-10-01T11:12:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk17.png</Source>
+      <Name>lib\lv1\R\lvk17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk17.xnb</Output>
+      <Time>2012-10-01T11:12:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk18.png</Source>
+      <Name>lib\lv1\R\lvk18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk18.xnb</Output>
+      <Time>2012-10-01T11:12:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk19.png</Source>
+      <Name>lib\lv1\R\lvk19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk19.xnb</Output>
+      <Time>2012-10-01T11:12:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk2.png</Source>
+      <Name>lib\lv1\R\lvk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk2.xnb</Output>
+      <Time>2012-10-01T11:12:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk20.png</Source>
+      <Name>lib\lv1\R\lvk20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk20.xnb</Output>
+      <Time>2012-10-01T11:12:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk3.png</Source>
+      <Name>lib\lv1\R\lvk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk3.xnb</Output>
+      <Time>2012-10-01T11:12:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk4.png</Source>
+      <Name>lib\lv1\R\lvk4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk4.xnb</Output>
+      <Time>2012-10-01T11:12:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk5.png</Source>
+      <Name>lib\lv1\R\lvk5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk5.xnb</Output>
+      <Time>2012-10-01T11:12:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk6.png</Source>
+      <Name>lib\lv1\R\lvk6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk6.xnb</Output>
+      <Time>2012-10-01T11:12:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk7.png</Source>
+      <Name>lib\lv1\R\lvk7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk7.xnb</Output>
+      <Time>2012-10-01T11:12:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk8.png</Source>
+      <Name>lib\lv1\R\lvk8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk8.xnb</Output>
+      <Time>2012-10-01T11:12:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\lv1\R\lvk9.png</Source>
+      <Name>lib\lv1\R\lvk9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\lv1\R\lvk9.xnb</Output>
+      <Time>2012-10-01T11:12:16.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\menu\exit.png</Source>
+      <Name>lib\menu\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\menu\exit.xnb</Output>
+      <Time>2012-09-24T02:46:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\menu\start.png</Source>
+      <Name>lib\menu\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\menu\start.xnb</Output>
+      <Time>2012-09-24T02:46:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\msg\msg1.png</Source>
+      <Name>lib\msg\msg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\msg\msg1.xnb</Output>
+      <Time>2012-10-02T15:33:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\msg\msgN.png</Source>
+      <Name>lib\msg\msgN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\msg\msgN.xnb</Output>
+      <Time>2012-09-20T21:44:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\msg\msgY.png</Source>
+      <Name>lib\msg\msgY</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\msg\msgY.xnb</Output>
+      <Time>2012-09-20T21:44:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num0.png</Source>
+      <Name>lib\number1\num0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num0.xnb</Output>
+      <Time>2012-09-22T01:30:36.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num1.png</Source>
+      <Name>lib\number1\num1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num1.xnb</Output>
+      <Time>2012-09-22T01:32:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num10.png</Source>
+      <Name>lib\number1\num10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num10.xnb</Output>
+      <Time>2012-09-22T02:30:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num11.png</Source>
+      <Name>lib\number1\num11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num11.xnb</Output>
+      <Time>2012-09-22T21:03:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num2.png</Source>
+      <Name>lib\number1\num2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num2.xnb</Output>
+      <Time>2012-09-22T01:32:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num3.png</Source>
+      <Name>lib\number1\num3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num3.xnb</Output>
+      <Time>2012-09-22T01:31:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num4.png</Source>
+      <Name>lib\number1\num4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num4.xnb</Output>
+      <Time>2012-09-22T01:31:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num5.png</Source>
+      <Name>lib\number1\num5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num5.xnb</Output>
+      <Time>2012-09-22T01:31:36.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num6.png</Source>
+      <Name>lib\number1\num6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num6.xnb</Output>
+      <Time>2012-09-22T01:31:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num7.png</Source>
+      <Name>lib\number1\num7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num7.xnb</Output>
+      <Time>2012-09-22T01:31:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num8.png</Source>
+      <Name>lib\number1\num8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num8.xnb</Output>
+      <Time>2012-09-22T01:31:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num9.png</Source>
+      <Name>lib\number1\num9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num9.xnb</Output>
+      <Time>2012-09-22T01:30:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>hero.png</Source>
+      <Name>hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\hero.xnb</Output>
+      <Time>2012-10-16T00:04:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num0.png</Source>
+      <Name>lib\number3\num0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num0.xnb</Output>
+      <Time>2012-10-17T20:30:50.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num1.png</Source>
+      <Name>lib\number3\num1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num1.xnb</Output>
+      <Time>2012-10-17T20:29:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num10.png</Source>
+      <Name>lib\number3\num10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num10.xnb</Output>
+      <Time>2012-10-17T20:31:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num11.png</Source>
+      <Name>lib\number3\num11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num11.xnb</Output>
+      <Time>2012-10-17T20:31:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num12.png</Source>
+      <Name>lib\number3\num12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num12.xnb</Output>
+      <Time>2012-10-17T20:31:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num13.png</Source>
+      <Name>lib\number3\num13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num13.xnb</Output>
+      <Time>2012-10-17T20:32:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num14.png</Source>
+      <Name>lib\number3\num14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num14.xnb</Output>
+      <Time>2012-10-17T20:32:16.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num15.png</Source>
+      <Name>lib\number3\num15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num15.xnb</Output>
+      <Time>2012-10-17T20:32:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num2.png</Source>
+      <Name>lib\number3\num2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num2.xnb</Output>
+      <Time>2012-10-17T20:29:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num3.png</Source>
+      <Name>lib\number3\num3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num3.xnb</Output>
+      <Time>2012-10-17T20:29:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num4.png</Source>
+      <Name>lib\number3\num4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num4.xnb</Output>
+      <Time>2012-10-17T20:30:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num5.png</Source>
+      <Name>lib\number3\num5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num5.xnb</Output>
+      <Time>2012-10-17T20:30:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num6.png</Source>
+      <Name>lib\number3\num6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num6.xnb</Output>
+      <Time>2012-10-17T20:36:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num7.png</Source>
+      <Name>lib\number3\num7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num7.xnb</Output>
+      <Time>2012-10-17T20:30:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num8.png</Source>
+      <Name>lib\number3\num8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num8.xnb</Output>
+      <Time>2012-10-17T20:30:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num9.png</Source>
+      <Name>lib\number3\num9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num9.xnb</Output>
+      <Time>2012-10-17T20:30:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LOVE.png</Source>
+      <Name>LOVE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\LOVE.xnb</Output>
+      <Time>2012-10-17T21:22:50.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LOVE2.png</Source>
+      <Name>LOVE2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\LOVE2.xnb</Output>
+      <Time>2012-10-17T21:22:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num0.png</Source>
+      <Name>lib\number2\num0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num0.xnb</Output>
+      <Time>2012-10-08T01:02:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num1.png</Source>
+      <Name>lib\number2\num1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num1.xnb</Output>
+      <Time>2012-10-08T01:05:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num10.png</Source>
+      <Name>lib\number2\num10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num10.xnb</Output>
+      <Time>2012-10-08T01:03:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num11.png</Source>
+      <Name>lib\number2\num11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num11.xnb</Output>
+      <Time>2012-10-08T01:03:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num2.png</Source>
+      <Name>lib\number2\num2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num2.xnb</Output>
+      <Time>2012-10-08T01:04:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num3.png</Source>
+      <Name>lib\number2\num3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num3.xnb</Output>
+      <Time>2012-10-08T01:04:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num4.png</Source>
+      <Name>lib\number2\num4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num4.xnb</Output>
+      <Time>2012-10-08T01:04:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num5.png</Source>
+      <Name>lib\number2\num5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num5.xnb</Output>
+      <Time>2012-10-08T01:04:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num6.png</Source>
+      <Name>lib\number2\num6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num6.xnb</Output>
+      <Time>2012-10-08T01:04:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num7.png</Source>
+      <Name>lib\number2\num7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num7.xnb</Output>
+      <Time>2012-10-08T01:04:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num8.png</Source>
+      <Name>lib\number2\num8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num8.xnb</Output>
+      <Time>2012-10-08T01:03:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num9.png</Source>
+      <Name>lib\number2\num9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num9.xnb</Output>
+      <Time>2012-10-08T01:03:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Level.png</Source>
+      <Name>Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\Level.xnb</Output>
+      <Time>2012-10-09T12:51:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p1.png</Source>
+      <Name>p\p1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p1.xnb</Output>
+      <Time>2012-10-11T11:43:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p2.png</Source>
+      <Name>p\p2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p2.xnb</Output>
+      <Time>2012-10-11T11:43:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p3.png</Source>
+      <Name>p\p3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p3.xnb</Output>
+      <Time>2012-10-11T11:43:50.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p4.png</Source>
+      <Name>p\p4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p4.xnb</Output>
+      <Time>2012-10-11T11:44:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p5.png</Source>
+      <Name>p\p5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p5.xnb</Output>
+      <Time>2012-10-11T11:48:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p6.png</Source>
+      <Name>p\p6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p6.xnb</Output>
+      <Time>2012-10-11T11:48:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p7.png</Source>
+      <Name>p\p7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p7.xnb</Output>
+      <Time>2012-10-11T11:48:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>p\p8.png</Source>
+      <Name>p\p8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\p\p8.xnb</Output>
+      <Time>2012-10-11T11:48:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\gameover.xnb</Output>
+      <Time>2012-10-11T14:21:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num12.png</Source>
+      <Name>lib\number1\num12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num12.xnb</Output>
+      <Time>2012-10-11T14:47:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num13.png</Source>
+      <Name>lib\number1\num13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num13.xnb</Output>
+      <Time>2012-10-11T14:47:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num14.png</Source>
+      <Name>lib\number1\num14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num14.xnb</Output>
+      <Time>2012-10-11T14:47:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num15.png</Source>
+      <Name>lib\number1\num15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num15.xnb</Output>
+      <Time>2012-10-11T14:48:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number1\num16.png</Source>
+      <Name>lib\number1\num16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number1\num16.xnb</Output>
+      <Time>2012-10-11T14:48:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num12.png</Source>
+      <Name>lib\number2\num12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num12.xnb</Output>
+      <Time>2012-10-17T20:26:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num13.png</Source>
+      <Name>lib\number2\num13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num13.xnb</Output>
+      <Time>2012-10-11T14:51:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num14.png</Source>
+      <Name>lib\number2\num14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num14.xnb</Output>
+      <Time>2012-10-11T14:51:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num15.png</Source>
+      <Name>lib\number2\num15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num15.xnb</Output>
+      <Time>2012-10-11T14:50:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number2\num16.png</Source>
+      <Name>lib\number2\num16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number2\num16.xnb</Output>
+      <Time>2012-10-11T14:49:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ball5.png</Source>
+      <Name>ball5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ball5.xnb</Output>
+      <Time>2012-09-23T11:23:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star1.png</Source>
+      <Name>star1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star1.xnb</Output>
+      <Time>2012-10-12T18:34:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star2.png</Source>
+      <Name>star2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star2.xnb</Output>
+      <Time>2012-10-14T17:45:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER41_A.png</Source>
+      <Name>monster\MONSTER4\MONSTER41_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER41_A.xnb</Output>
+      <Time>2012-10-14T17:17:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER41_B.png</Source>
+      <Name>monster\MONSTER4\MONSTER41_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER41_B.xnb</Output>
+      <Time>2012-10-14T17:17:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER41_C.png</Source>
+      <Name>monster\MONSTER4\MONSTER41_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER41_C.xnb</Output>
+      <Time>2012-10-14T17:17:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER41_D.png</Source>
+      <Name>monster\MONSTER4\MONSTER41_D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER41_D.xnb</Output>
+      <Time>2012-10-14T17:16:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER4_A.png</Source>
+      <Name>monster\MONSTER4\MONSTER4_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER4_A.xnb</Output>
+      <Time>2012-10-14T17:19:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER4_B.png</Source>
+      <Name>monster\MONSTER4\MONSTER4_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER4_B.xnb</Output>
+      <Time>2012-10-14T17:19:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER4_C.png</Source>
+      <Name>monster\MONSTER4\MONSTER4_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER4_C.xnb</Output>
+      <Time>2012-10-14T17:19:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER4\MONSTER4_D.png</Source>
+      <Name>monster\MONSTER4\MONSTER4_D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER4\MONSTER4_D.xnb</Output>
+      <Time>2012-10-14T17:19:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star3.png</Source>
+      <Name>star3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star3.xnb</Output>
+      <Time>2012-10-15T02:38:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star4.png</Source>
+      <Name>star4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star4.xnb</Output>
+      <Time>2012-10-14T17:47:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star5.png</Source>
+      <Name>star5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star5.xnb</Output>
+      <Time>2012-10-14T17:47:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star6.png</Source>
+      <Name>star6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star6.xnb</Output>
+      <Time>2012-10-14T17:48:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star7.png</Source>
+      <Name>star7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star7.xnb</Output>
+      <Time>2012-10-14T17:48:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER5\monster5_A.png</Source>
+      <Name>monster\MONSTER5\monster5_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER5\monster5_A.xnb</Output>
+      <Time>2012-10-14T18:32:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER5\monster5_B.png</Source>
+      <Name>monster\MONSTER5\monster5_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER5\monster5_B.xnb</Output>
+      <Time>2012-10-14T18:33:36.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER5\monster5_C.png</Source>
+      <Name>monster\MONSTER5\monster5_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER5\monster5_C.xnb</Output>
+      <Time>2012-10-14T18:33:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER5\monster5_D.png</Source>
+      <Name>monster\MONSTER5\monster5_D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER5\monster5_D.xnb</Output>
+      <Time>2012-10-14T18:34:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS2.png</Source>
+      <Name>monster\BOSS\BOSS2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS2.xnb</Output>
+      <Time>2012-10-15T12:26:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5.png</Source>
+      <Name>monster\BOSS\BOSS5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5.xnb</Output>
+      <Time>2012-10-14T22:35:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS1_A.png</Source>
+      <Name>monster\BOSS\BOSS1_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS1_A.xnb</Output>
+      <Time>2012-10-15T11:55:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS1_B.png</Source>
+      <Name>monster\BOSS\BOSS1_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS1_B.xnb</Output>
+      <Time>2012-10-15T11:55:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS1_C.png</Source>
+      <Name>monster\BOSS\BOSS1_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS1_C.xnb</Output>
+      <Time>2012-10-15T11:55:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>star8.png</Source>
+      <Name>star8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\star8.xnb</Output>
+      <Time>2012-10-15T02:35:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\boss3_A.png</Source>
+      <Name>monster\BOSS\boss3_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\boss3_A.xnb</Output>
+      <Time>2012-10-15T11:20:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\boss3_B.png</Source>
+      <Name>monster\BOSS\boss3_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\boss3_B.xnb</Output>
+      <Time>2012-10-15T11:20:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS4_A.png</Source>
+      <Name>monster\BOSS\BOSS4_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS4_A.xnb</Output>
+      <Time>2012-10-15T14:01:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS4_B.png</Source>
+      <Name>monster\BOSS\BOSS4_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS4_B.xnb</Output>
+      <Time>2012-10-15T14:00:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS4_C.png</Source>
+      <Name>monster\BOSS\BOSS4_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS4_C.xnb</Output>
+      <Time>2012-10-15T14:00:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS4_D.png</Source>
+      <Name>monster\BOSS\BOSS4_D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS4_D.xnb</Output>
+      <Time>2012-10-15T14:00:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS4_LEFT.png</Source>
+      <Name>monster\BOSS\BOSS4_LEFT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS4_LEFT.xnb</Output>
+      <Time>2012-10-15T20:33:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS4_RIGHT.png</Source>
+      <Name>monster\BOSS\BOSS4_RIGHT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS4_RIGHT.xnb</Output>
+      <Time>2012-10-15T19:02:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballM2_A.png</Source>
+      <Name>ballM2_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballM2_A.xnb</Output>
+      <Time>2012-10-24T18:11:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballM2_B.png</Source>
+      <Name>ballM2_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballM2_B.xnb</Output>
+      <Time>2012-10-16T12:56:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballM2_C.png</Source>
+      <Name>ballM2_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballM2_C.xnb</Output>
+      <Time>2012-10-16T12:56:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_A_A.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_A_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_A_A.xnb</Output>
+      <Time>2012-10-16T23:30:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_A_B.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_A_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_A_B.xnb</Output>
+      <Time>2012-10-16T23:43:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_B_A.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_B_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_B_A.xnb</Output>
+      <Time>2012-10-16T23:35:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_B_B.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_B_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_B_B.xnb</Output>
+      <Time>2012-10-16T23:34:52.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_C_A.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_C_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_C_A.xnb</Output>
+      <Time>2012-10-16T23:32:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_C_B.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_C_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_C_B.xnb</Output>
+      <Time>2012-10-16T23:32:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_D_A.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_D_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_D_A.xnb</Output>
+      <Time>2012-10-16T23:13:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER3\MONSTER3_D_B.png</Source>
+      <Name>monster\MONSTER3\MONSTER3_D_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER3\MONSTER3_D_B.xnb</Output>
+      <Time>2012-10-16T23:13:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ball1.png</Source>
+      <Name>ball1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ball1.xnb</Output>
+      <Time>2012-10-24T18:16:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballA1.png</Source>
+      <Name>ballA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballA1.xnb</Output>
+      <Time>2012-09-23T11:19:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballA2.png</Source>
+      <Name>ballA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballA2.xnb</Output>
+      <Time>2012-09-23T11:22:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballA3.png</Source>
+      <Name>ballA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballA3.xnb</Output>
+      <Time>2012-09-23T11:23:04.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballC1.png</Source>
+      <Name>ballC1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballC1.xnb</Output>
+      <Time>2012-09-23T11:20:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballC2.png</Source>
+      <Name>ballC2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballC2.xnb</Output>
+      <Time>2012-09-23T11:22:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballC3.png</Source>
+      <Name>ballC3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballC3.xnb</Output>
+      <Time>2012-09-23T11:23:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballB1.png</Source>
+      <Name>ballB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballB1.xnb</Output>
+      <Time>2012-09-23T11:20:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballB2.png</Source>
+      <Name>ballB2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballB2.xnb</Output>
+      <Time>2012-09-23T11:22:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballB3.png</Source>
+      <Name>ballB3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballB3.xnb</Output>
+      <Time>2012-09-23T11:24:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>oneP1.png</Source>
+      <Name>oneP1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\oneP1.xnb</Output>
+      <Time>2012-10-17T23:15:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>oneP3.png</Source>
+      <Name>oneP3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\oneP3.xnb</Output>
+      <Time>2012-10-17T18:36:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lib\number3\num16.png</Source>
+      <Name>lib\number3\num16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\lib\number3\num16.xnb</Output>
+      <Time>2012-10-11T14:49:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>oneP4_A.png</Source>
+      <Name>oneP4_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\oneP4_A.xnb</Output>
+      <Time>2012-10-17T23:14:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ONEP4_B.png</Source>
+      <Name>ONEP4_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ONEP4_B.xnb</Output>
+      <Time>2012-10-17T23:14:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bar2.png</Source>
+      <Name>bar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\bar2.xnb</Output>
+      <Time>2012-10-18T02:03:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_A.png</Source>
+      <Name>monster\BOSS\BOSS5_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_A.xnb</Output>
+      <Time>2012-10-18T22:53:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_B.png</Source>
+      <Name>monster\BOSS\BOSS5_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_B.xnb</Output>
+      <Time>2012-10-18T17:19:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_C.png</Source>
+      <Name>monster\BOSS\BOSS5_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_C.xnb</Output>
+      <Time>2012-10-18T17:20:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_D.png</Source>
+      <Name>monster\BOSS\BOSS5_D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_D.xnb</Output>
+      <Time>2012-10-18T22:53:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_E.png</Source>
+      <Name>monster\BOSS\BOSS5_E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_E.xnb</Output>
+      <Time>2012-10-18T17:20:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_F.png</Source>
+      <Name>monster\BOSS\BOSS5_F</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_F.xnb</Output>
+      <Time>2012-10-18T17:20:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_G1.png</Source>
+      <Name>monster\BOSS\BOSS5_G1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_G1.xnb</Output>
+      <Time>2012-10-18T21:59:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_G2.png</Source>
+      <Name>monster\BOSS\BOSS5_G2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_G2.xnb</Output>
+      <Time>2012-10-18T22:00:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS5_G3.png</Source>
+      <Name>monster\BOSS\BOSS5_G3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS5_G3.xnb</Output>
+      <Time>2012-10-18T22:01:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER1\MONSTER1_A.png</Source>
+      <Name>monster\MONSTER1\MONSTER1_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER1\MONSTER1_A.xnb</Output>
+      <Time>2012-10-20T00:14:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER1\MONSTER1_B.png</Source>
+      <Name>monster\MONSTER1\MONSTER1_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER1\MONSTER1_B.xnb</Output>
+      <Time>2012-10-20T00:14:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER1\MONSTER1_C.png</Source>
+      <Name>monster\MONSTER1\MONSTER1_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER1\MONSTER1_C.xnb</Output>
+      <Time>2012-10-20T00:15:14.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER1\MONSTER1_D.png</Source>
+      <Name>monster\MONSTER1\MONSTER1_D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER1\MONSTER1_D.xnb</Output>
+      <Time>2012-10-18T02:33:50.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER7\MONSTER7_A_A.png</Source>
+      <Name>monster\MONSTER7\MONSTER7_A_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER7\MONSTER7_A_A.xnb</Output>
+      <Time>2012-10-20T01:38:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER7\MONSTER7_A_B.png</Source>
+      <Name>monster\MONSTER7\MONSTER7_A_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER7\MONSTER7_A_B.xnb</Output>
+      <Time>2012-10-20T01:38:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER7\MONSTER7_C_A.png</Source>
+      <Name>monster\MONSTER7\MONSTER7_C_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER7\MONSTER7_C_A.xnb</Output>
+      <Time>2012-10-20T01:31:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER7\MONSTER7_C_B.png</Source>
+      <Name>monster\MONSTER7\MONSTER7_C_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER7\MONSTER7_C_B.xnb</Output>
+      <Time>2012-10-20T01:31:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER7\MONSTER7_B_A.png</Source>
+      <Name>monster\MONSTER7\MONSTER7_B_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER7\MONSTER7_B_A.xnb</Output>
+      <Time>2012-10-20T01:34:06.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\MONSTER7\MONSTER7_B_B.png</Source>
+      <Name>monster\MONSTER7\MONSTER7_B_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\MONSTER7\MONSTER7_B_B.xnb</Output>
+      <Time>2012-10-20T01:33:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>starS1.png</Source>
+      <Name>starS1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\starS1.xnb</Output>
+      <Time>2012-10-22T16:38:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>starS2.png</Source>
+      <Name>starS2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\starS2.xnb</Output>
+      <Time>2012-10-22T16:43:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>oneP2_A.png</Source>
+      <Name>oneP2_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\oneP2_A.xnb</Output>
+      <Time>2012-10-21T19:34:40.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>oneP2_B.png</Source>
+      <Name>oneP2_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\oneP2_B.xnb</Output>
+      <Time>2012-10-21T19:37:56.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ONEP2_C.png</Source>
+      <Name>ONEP2_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ONEP2_C.xnb</Output>
+      <Time>2012-10-21T18:48:46.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_A_A.png</Source>
+      <Name>monster\BOSS\BOSS6_A_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_A_A.xnb</Output>
+      <Time>2012-10-23T21:05:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_A_B.png</Source>
+      <Name>monster\BOSS\BOSS6_A_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_A_B.xnb</Output>
+      <Time>2012-10-23T21:06:20.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_A_C.png</Source>
+      <Name>monster\BOSS\BOSS6_A_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_A_C.xnb</Output>
+      <Time>2012-10-23T21:06:32.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_B_A.png</Source>
+      <Name>monster\BOSS\BOSS6_B_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_B_A.xnb</Output>
+      <Time>2012-10-23T21:06:42.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_B_B.png</Source>
+      <Name>monster\BOSS\BOSS6_B_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_B_B.xnb</Output>
+      <Time>2012-10-23T21:07:02.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_B_C.png</Source>
+      <Name>monster\BOSS\BOSS6_B_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_B_C.xnb</Output>
+      <Time>2012-10-23T21:07:16.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_C_A.png</Source>
+      <Name>monster\BOSS\BOSS6_C_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_C_A.xnb</Output>
+      <Time>2012-10-23T21:07:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_C_B.png</Source>
+      <Name>monster\BOSS\BOSS6_C_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_C_B.xnb</Output>
+      <Time>2012-10-23T21:07:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS6_C_C.png</Source>
+      <Name>monster\BOSS\BOSS6_C_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS6_C_C.xnb</Output>
+      <Time>2012-10-23T21:08:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\boss7_A.png</Source>
+      <Name>monster\BOSS\boss7_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\boss7_A.xnb</Output>
+      <Time>2012-10-24T15:39:38.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\boss7_B.png</Source>
+      <Name>monster\BOSS\boss7_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\boss7_B.xnb</Output>
+      <Time>2012-10-24T15:39:48.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballM3_A.png</Source>
+      <Name>ballM3_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballM3_A.xnb</Output>
+      <Time>2012-10-24T18:12:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballM3_B.png</Source>
+      <Name>ballM3_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballM3_B.xnb</Output>
+      <Time>2012-10-24T18:12:24.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballM3_C.png</Source>
+      <Name>ballM3_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\ballM3_C.xnb</Output>
+      <Time>2012-10-24T18:12:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SCORE.png</Source>
+      <Name>SCORE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\SCORE.xnb</Output>
+      <Time>2012-12-03T21:52:26.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>GameEND.png</Source>
+      <Name>GameEND</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\GameEND.xnb</Output>
+      <Time>2012-12-03T14:56:22.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LOVES.png</Source>
+      <Name>LOVES</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\LOVES.xnb</Output>
+      <Time>2012-10-26T21:34:10.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LOVES2.png</Source>
+      <Name>LOVES2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\LOVES2.xnb</Output>
+      <Time>2012-10-26T21:34:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LOVESS.png</Source>
+      <Name>LOVESS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\LOVESS.xnb</Output>
+      <Time>2012-10-26T21:59:08.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LOVESS2.png</Source>
+      <Name>LOVESS2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\LOVESS2.xnb</Output>
+      <Time>2012-10-26T21:59:18.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS51_G1.png</Source>
+      <Name>monster\BOSS\BOSS51_G1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS51_G1.xnb</Output>
+      <Time>2012-10-30T17:06:45.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS51_G2.png</Source>
+      <Name>monster\BOSS\BOSS51_G2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS51_G2.xnb</Output>
+      <Time>2012-10-30T17:07:00.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>monster\BOSS\BOSS51_G3.png</Source>
+      <Name>monster\BOSS\BOSS51_G3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\monster\BOSS\BOSS51_G3.xnb</Output>
+      <Time>2012-10-30T16:59:29.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\hFires.WAV</Source>
+      <Name>music\hFires</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\hFires.xnb</Output>
+      <Time>2000-08-26T03:25:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\mFired.WAV</Source>
+      <Name>music\mFired</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\mFired.xnb</Output>
+      <Time>2000-08-26T03:30:54.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\hDead.WAV</Source>
+      <Name>music\hDead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\hDead.xnb</Output>
+      <Time>2012-10-16T10:53:44.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\hFired.WAV</Source>
+      <Name>music\hFired</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\hFired.xnb</Output>
+      <Time>2012-10-16T10:53:28.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\mDead.WAV</Source>
+      <Name>music\mDead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\mDead.xnb</Output>
+      <Time>2000-08-26T03:35:34.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\mFires.WAV</Source>
+      <Name>music\mFires</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\mFires.xnb</Output>
+      <Time>2000-08-26T03:31:58.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\ball_M2.wav</Source>
+      <Name>music\ball_M2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\ball_M2.xnb</Output>
+      <Time>2012-10-16T12:24:30.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\getHP.WAV</Source>
+      <Name>music\getHP</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\getHP.xnb</Output>
+      <Time>2000-08-26T03:35:12.9999999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>music\getPower.WAV</Source>
+      <Name>music\getPower</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\music\getPower.xnb</Output>
+      <Time>2000-08-26T03:32:06.9999999+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D2629A74-32A8-414E-9D8B-99061EA18D05}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLibContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLib\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-21T22:27:54.2138618+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

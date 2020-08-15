@@ -1,0 +1,1836 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\BAR.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\bg\bg1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv17.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv18.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv19.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv20.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lv9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk17.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk18.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk19.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk20.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\lvk9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv17.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv18.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv19.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv20.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lv9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk17.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk18.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk19.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk20.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\lv1\R\lvk9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\menu\exit.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\menu\start.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\msg\msg1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\msg\msgN.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\msg\msgY.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num0.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\hero.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num0.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\LOVE.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\LOVE2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num0.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num10.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num11.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num9.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\Level.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\p\p8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\gameover.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number1\num16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num12.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num13.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num14.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num15.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number2\num16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ball5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star4.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star6.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star7.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\star8.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\boss3_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\boss3_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballM2_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballM2_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballM2_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ball1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballA1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballA2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballA3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballC1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballC2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballC3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballB1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballB2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballB3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\oneP1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\oneP3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\lib\number3\num16.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\oneP4_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ONEP4_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\bar2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\starS1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\starS2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\oneP2_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\oneP2_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ONEP2_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\boss7_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\boss7_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballM3_A.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballM3_B.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\ballM3_C.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\SCORE.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\GameEND.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\LOVES.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\LOVES2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\LOVESS.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\LOVESS2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\hFires.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\mFired.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\hDead.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\hFired.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\mDead.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\mFires.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\ball_M2.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\getHP.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Content\music\getPower.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\ApplicationIcon.png
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Background.png
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\hero.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\hero.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\AppManifest.xaml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\hero.xap
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\heroLib.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\TARY_Library.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\heroLib.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\Bin\Release\TARY_Library.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\App.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\GamePage.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\GameTeach.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\MainPage.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\myScore.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\hero.g.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\hero.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\hero.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\hero\obj\Release\XapCacheFile.xml
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\ApplicationIcon.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Background.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\BAR.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\bg\bg1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lv9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\lvk9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lv9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\lv1\R\lvk9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\menu\exit.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\menu\start.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\msg\msg1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\msg\msgN.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\msg\msgY.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num0.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\hero.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num0.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\LOVE.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\LOVE2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num0.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\Level.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\p\p8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\gameover.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number1\num16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number2\num16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ball5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\star8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\boss3_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\boss3_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballM2_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballM2_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballM2_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ball1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballA1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballA2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballA3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballC1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballC2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballC3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballB1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballB2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballB3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\oneP1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\oneP3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\lib\number3\num16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\oneP4_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ONEP4_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\bar2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\starS1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\starS2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\oneP2_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\oneP2_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ONEP2_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\boss7_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\boss7_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballM3_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballM3_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\ballM3_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\SCORE.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\GameEND.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\LOVES.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\LOVES2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\LOVESS.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\LOVESS2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\hFires.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\mFired.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\hDead.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\hFired.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\mDead.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\mFires.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\ball_M2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\getHP.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Content\music\getPower.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\hero.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\hero.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\AppManifest.xaml
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\hero.xap
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\heroLib.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\TARY_Library_Silverlight.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\heroLib.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\TARY_Library.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\TARY_Library_Silverlight.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\App.g.i.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\GamePage.g.i.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\GameTeach.g.i.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\MainPage.g.i.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\myScore.g.i.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\hero.g.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\hero.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\hero.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\obj\Release\XapCacheFile.xml
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\ImagesLib\TaryPage\people.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\ImagesLib\TaryPage\star.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\ImagesLib\TaryPage\star2.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\hero\Bin\Release\ImagesLib\TaryPage\unlock.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ApplicationIcon.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Background.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\BAR.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\bg\bg1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk17.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk18.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk19.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk20.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\menu\exit.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\menu\start.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msg1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msgN.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msgY.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num0.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\hero.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num0.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVE.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVE2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num0.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num10.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num11.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num9.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\Level.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\gameover.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num12.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num13.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num14.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num15.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ball5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star4.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star6.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star7.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star8.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss3_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss3_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ball1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num16.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP4_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ONEP4_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\bar2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\starS1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\starS2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP2_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP2_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ONEP2_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss7_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss7_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_A.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_B.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_C.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\SCORE.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\GameEND.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVES.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVES2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVESS.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVESS2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hFires.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mFired.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hDead.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hFired.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mDead.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mFires.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\ball_M2.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\getHP.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\getPower.xnb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\people.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\star.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\star2.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\unlock.png
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\AppManifest.xaml
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.xap
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\heroLib.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\TARY_Library_Silverlight.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\heroLib.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\TARY_Library.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\TARY_Library_Silverlight.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\App.g.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GamePage.g.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GameTeach.g.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\MainPage.g.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\myScore.g.cs
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.g.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.pdb
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\XapCacheFile.xml
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.LanguageData.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\zh-CN\hero.resources.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\zh-TW\hero.resources.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.zh-CN.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.zh-TW.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\zh-CN\hero.resources.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\zh-TW\hero.resources.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ja-JP\hero.resources.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.ja-JP.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\ja-JP\hero.resources.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\en-US\hero.resources.dll
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.en-US.resources
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\hero\obj\Release\en-US\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Background.png
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\BAR.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\bg\bg1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv10.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv11.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv12.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv13.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv14.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv15.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv16.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv17.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv18.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv19.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv20.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv9.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk10.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk11.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk12.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk13.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk14.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk15.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk16.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk17.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk18.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk19.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk20.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk9.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv10.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv11.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv12.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv13.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv14.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv15.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv16.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv17.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv18.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv19.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv20.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv9.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk10.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk11.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk12.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk13.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk14.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk15.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk16.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk17.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk18.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk19.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk20.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk9.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\menu\exit.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\menu\start.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msg1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msgN.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msgY.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num0.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num10.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num11.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num9.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\hero.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num0.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num10.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num11.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num12.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num13.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num14.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num15.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num9.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVE.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVE2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num0.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num10.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num11.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num9.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\Level.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\gameover.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num12.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num13.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num14.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num15.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num16.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num12.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num13.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num14.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num15.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num16.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ball5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star4.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star6.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star7.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star8.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss3_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss3_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ball1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num16.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP4_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ONEP4_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\bar2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\starS1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\starS2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP2_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP2_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ONEP2_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss7_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss7_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_A.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_B.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_C.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\SCORE.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\GameEND.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVES.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVES2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVESS.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVESS2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hFires.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mFired.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hDead.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hFired.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mDead.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mFires.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\ball_M2.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\getHP.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\getPower.xnb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\people.png
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\star.png
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\star2.png
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\unlock.png
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.pdb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\zh-CN\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\zh-TW\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ja-JP\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\en-US\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.xap
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\heroLib.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\heroLib.pdb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\TARY_Library.pdb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\TARY_Library_Silverlight.pdb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GamePage.g.cs
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GameTeach.g.cs
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\MainPage.g.cs
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\myScore.g.cs
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.g.resources
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.LanguageData.resources
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.resources
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.zh-CN.resources
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.zh-TW.resources
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.ja-JP.resources
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.en-US.resources
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\zh-CN\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\zh-TW\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\ja-JP\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\en-US\hero.resources.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.dll
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.pdb
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\hero\obj\Release\XapCacheFile.xml
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ApplicationIcon.png
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Background.png
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\BAR.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\bg\bg1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv10.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv11.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv12.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv13.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv14.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv15.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv16.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv17.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv18.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv19.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv20.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lv9.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk10.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk11.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk12.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk13.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk14.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk15.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk16.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk17.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk18.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk19.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk20.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\lvk9.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv10.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv11.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv12.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv13.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv14.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv15.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv16.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv17.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv18.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv19.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv20.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lv9.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk10.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk11.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk12.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk13.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk14.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk15.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk16.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk17.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk18.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk19.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk20.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\lv1\R\lvk9.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\menu\exit.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\menu\start.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msg1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msgN.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\msg\msgY.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num0.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num10.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num11.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num9.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\hero.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num0.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num10.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num11.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num12.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num13.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num14.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num15.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num9.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVE.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVE2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num0.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num10.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num11.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num9.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\Level.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\p\p8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\gameover.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num12.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num13.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num14.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num15.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number1\num16.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num12.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num13.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num14.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num15.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number2\num16.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ball5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_D.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_D.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star4.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star6.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star7.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_D.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\star8.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss3_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss3_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_D.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_LEFT.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_RIGHT.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM2_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ball1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballA3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballC3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballB3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\lib\number3\num16.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP4_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ONEP4_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\bar2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_D.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_E.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_F.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_D.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\starS1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\starS2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP2_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\oneP2_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ONEP2_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss7_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\boss7_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_A.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_B.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\ballM3_C.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\SCORE.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\GameEND.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVES.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVES2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVESS.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\LOVESS2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G1.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G3.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hFires.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mFired.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hDead.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\hFired.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mDead.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\mFires.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\ball_M2.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\getHP.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Content\music\getPower.xnb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\people.png
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\star.png
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\star2.png
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ImagesLib\TaryPage\unlock.png
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.pdb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\zh-CN\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\zh-TW\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\ja-JP\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\en-US\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\AppManifest.xaml
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\hero.xap
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\heroLib.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Microsoft.Phone.Controls.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\heroLib.pdb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\Microsoft.Phone.Controls.xml
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\TARY_Library.pdb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\Bin\Release\TARY_Library_Silverlight.pdb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\ResolveAssemblyReference.cache
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\App.g.i.cs
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GamePage.g.i.cs
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GameTeach.g.i.cs
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\MainPage.g.i.cs
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\myScore.g.i.cs
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.g.resources
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.LanguageData.resources
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.resources
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.zh-CN.resources
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.zh-TW.resources
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.ja-JP.resources
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.Language.Language.en-US.resources
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GenerateResource.read.1.tlog
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\GenerateResource.write.1.tlog
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\zh-CN\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\zh-TW\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\ja-JP\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\en-US\hero.resources.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.dll
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\hero.pdb
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\hero\obj\Release\XapCacheFile.xml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\App.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\GamePage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\GameTeach.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\MainPage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\myScore.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.g.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.LanguageData.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.Language.Language.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.Language.Language.zh-CN.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.Language.Language.zh-TW.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.Language.Language.ja-JP.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.Language.Language.en-US.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\hero\obj\Release\hero.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\BAR.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\bg\bg1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lv9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\lvk9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lv9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk17.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk18.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk19.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk20.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\lv1\R\lvk9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\menu\exit.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\menu\start.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\msg\msg1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\msg\msgN.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\msg\msgY.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\hero.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\LOVE.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\LOVE2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num0.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num10.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num11.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num9.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\Level.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\p\p8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\gameover.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number1\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num12.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num13.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num14.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num15.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number2\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ball5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER41_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER4\MONSTER4_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star4.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star6.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star7.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER5\monster5_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS1_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\star8.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\boss3_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\boss3_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_LEFT.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS4_RIGHT.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballM2_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballM2_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballM2_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER3\MONSTER3_D_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ball1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballA1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballA2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballA3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballC1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballC2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballC3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballB1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballB2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballB3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\oneP1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\oneP3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\lib\number3\num16.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\oneP4_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ONEP4_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\bar2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_E.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_F.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS5_G3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER1\MONSTER1_D.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\MONSTER7\MONSTER7_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\starS1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\starS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\oneP2_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\oneP2_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ONEP2_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_A_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_B_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS6_C_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\boss7_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\boss7_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballM3_A.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballM3_B.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\ballM3_C.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\SCORE.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\GameEND.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\LOVES.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\LOVES2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\LOVESS.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\LOVESS2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G1.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\monster\BOSS\BOSS51_G3.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\hFires.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\mFired.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\hDead.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\hFired.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\mDead.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\mFires.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\ball_M2.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\getHP.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Content\music\getPower.xnb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\ApplicationIcon.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Background.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\ImagesLib\TaryPage\people.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\ImagesLib\TaryPage\star.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\ImagesLib\TaryPage\star2.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\ImagesLib\TaryPage\unlock.png
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\hero.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\hero.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\zh-CN\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\zh-TW\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\ja-JP\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\en-US\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\AppManifest.xaml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\hero.xap
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\heroLib.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\TARY_Library.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\TARY_Library_Silverlight.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\heroLib.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\App.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\GamePage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\GameTeach.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\MainPage.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\myScore.g.i.cs
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.g.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.LanguageData.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.Language.Language.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.Language.Language.zh-CN.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.Language.Language.zh-TW.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.Language.Language.ja-JP.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.Language.Language.en-US.resources
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\zh-CN\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\zh-TW\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\ja-JP\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\en-US\hero.resources.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.dll
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\hero.pdb
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\hero\obj\Release\XapCacheFile.xml

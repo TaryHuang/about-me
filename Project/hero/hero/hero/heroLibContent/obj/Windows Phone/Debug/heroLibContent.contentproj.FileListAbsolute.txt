@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\hero\hero\heroLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Documents\Visual Studio 2010\Projects\hero\hero\heroLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\heroLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

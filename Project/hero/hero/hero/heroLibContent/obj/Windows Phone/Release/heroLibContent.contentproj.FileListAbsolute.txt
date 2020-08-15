@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\hero\hero\heroLibContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.01\hero\heroLibContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\我的專案\2012\最後戰機\hero_2012.11.21\hero\heroLibContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\最後戰機\hero_2012.11.21\hero\heroLibContent\obj\Windows Phone\Release\heroLibContent.contentprojResolveAssemblyReference.cache
+D:\win8資源\專案\2013.01.12\最後戰機\hero_2012.11.21\hero\heroLibContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.13\hero\heroLibContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\分享\最終戰機\hero_2012.01.12\hero\heroLibContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache

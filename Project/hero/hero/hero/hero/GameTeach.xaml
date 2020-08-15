@@ -1,0 +1,106 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="hero.GameTeach"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot 包含放置所有其他頁面的根資料格-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama Height="auto" HorizontalAlignment="Left" Name="BODY" VerticalAlignment="Top" Width="Auto"  Margin="0,65,0,0" >
+
+            <!--Panorama 項目 1-->
+            <controls:PanoramaItem Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.TEACH_M1}">
+                <Grid>
+                    <ScrollViewer Height="AUTO" HorizontalAlignment="Left" Name="scrollViewer1" VerticalAlignment="Top" Width="416">
+                        <StackPanel>
+                            <TextBlock Height="Auto"   Name="A_DESC" Text="" VerticalAlignment="Top" Width="391" FontSize="24" TextWrapping="Wrap" />
+                            <Image Height="414"   Name="A" Stretch="Fill" VerticalAlignment="Top" Width="288" Source="/hero;component/Images/teach_a2.png" />
+                           
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama 項目 2-->
+            <controls:PanoramaItem Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.TEACH_M2}">
+                <Grid>
+
+                    <ScrollViewer Height="AUTO" HorizontalAlignment="Left" Name="scrollViewer3" VerticalAlignment="Top" Width="416">
+                        <StackPanel>
+                            <TextBlock Height="auto"   Name="C_DESC" Text="" VerticalAlignment="Top" Width="391" FontSize="24" TextWrapping="Wrap" />
+                            <Image Height="570"   Name="C" Stretch="Fill" VerticalAlignment="Top" Width="335" Source="/hero;component/Images/dd.png" />
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama 項目 3-->
+            <controls:PanoramaItem Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.TEACH_M3}">
+                <Grid>
+                    <ScrollViewer Height="AUTO" HorizontalAlignment="Left" Name="scrollViewer2" VerticalAlignment="Top" Width="416">
+                        <StackPanel>
+                            
+                            <TextBlock Height="auto"  Name="B_DESC" Text="" VerticalAlignment="Top" Width="391" FontSize="24" TextWrapping="Wrap" />
+                            <Image Height="414" Name="B" Stretch="Fill" VerticalAlignment="Top" Width="288" Source="/hero;component/Images/teach_b1.png" />
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PanoramaItem>
+
+
+            <!--Panorama 項目 4-->
+            <controls:PanoramaItem Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.TEACH_M4}">
+                <Grid>
+
+                    <ScrollViewer Height="AUTO" HorizontalAlignment="Left" Name="scrollViewer5" VerticalAlignment="Top" Width="416">
+                        <StackPanel>
+                            <TextBlock Name="E_DESC" Text="" Width="391" FontSize="24" TextWrapping="Wrap" Height="auto" />
+                            <Image Height="1240"  Name="E" Stretch="Fill" VerticalAlignment="Top" Width="400" Source="/hero;component/Images/666.png" />
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PanoramaItem>
+
+
+
+            <!--Panorama 項目 5-->
+            <controls:PanoramaItem Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.TEACH_M5}">
+                <Grid>
+
+                    <ScrollViewer Height="AUTO" HorizontalAlignment="Left" Name="scrollViewer4" VerticalAlignment="Top" Width="416">
+                        <StackPanel>
+                            <TextBlock Height="auto" Name="D_DESC" Text="" VerticalAlignment="Top" Width="391" FontSize="24" TextWrapping="Wrap" />
+                            <Image Height="570" Name="D" Stretch="Fill" VerticalAlignment="Top" Width="335" Source="/hero;component/Images/555.png" />
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PanoramaItem>
+            
+        </controls:Panorama>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <StackPanel Height="50" HorizontalAlignment="Left" Margin="12,0,0,0" Name="stackPanel1" VerticalAlignment="Top" Width="393">
+            <TextBlock Height="54" Name="textBlock1" Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.SCORE_TITLE}" FontSize="36" />
+        </StackPanel>
+    </Grid>
+
+    <!--Panorama 應用程式不應該顯示 ApplicationBar-->
+
+</phone:PhoneApplicationPage>

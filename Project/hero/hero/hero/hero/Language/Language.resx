@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="GMENU_B" xml:space="preserve">
+    <value>購買訊息</value>
+    <comment>購買訊息</comment>
+  </data>
+  <data name="GMENU_BUYLIFE" xml:space="preserve">
+    <value>您確定要花費$9500購買戰機？</value>
+    <comment>您確定要花費$9500購買戰機？</comment>
+  </data>
+  <data name="GMENU_BUYR" xml:space="preserve">
+    <value>您確定要花費$4800購買能力值點數？</value>
+    <comment>您確定要花費$4800購買能力值點數？</comment>
+  </data>
+  <data name="GMENU_D1" xml:space="preserve">
+    <value>購買能力值</value>
+    <comment>購買能力值</comment>
+  </data>
+  <data name="GMENU_D2" xml:space="preserve">
+    <value>購買戰機</value>
+    <comment>購買戰機</comment>
+  </data>
+  <data name="GMENU_D3" xml:space="preserve">
+    <value>開始戰鬥</value>
+    <comment>開始戰鬥</comment>
+  </data>
+  <data name="GMENU_EASY" xml:space="preserve">
+    <value>輕鬆</value>
+    <comment>輕鬆</comment>
+  </data>
+  <data name="GMENU_HARD" xml:space="preserve">
+    <value>困難</value>
+    <comment>困難</comment>
+  </data>
+  <data name="GMENU_M1" xml:space="preserve">
+    <value>能力值點數：</value>
+    <comment>能力值點數：</comment>
+  </data>
+  <data name="GMENU_M2" xml:space="preserve">
+    <value>分數：</value>
+    <comment>分數：</comment>
+  </data>
+  <data name="GMENU_M3" xml:space="preserve">
+    <value>金幣：</value>
+    <comment>金幣：</comment>
+  </data>
+  <data name="GMENU_M4" xml:space="preserve">
+    <value>戰機 ×</value>
+    <comment>戰機 ×</comment>
+  </data>
+  <data name="GMENU_NO" xml:space="preserve">
+    <value>Sorry！金幣不足！</value>
+    <comment>Sorry！金幣不足！</comment>
+  </data>
+  <data name="GMENU_NORMAL" xml:space="preserve">
+    <value>正常</value>
+    <comment>正常</comment>
+  </data>
+  <data name="GMENU_S1" xml:space="preserve">
+    <value>攻擊傷害</value>
+    <comment>攻擊傷害</comment>
+  </data>
+  <data name="GMENU_S2" xml:space="preserve">
+    <value>發射速度</value>
+    <comment>發射速度</comment>
+  </data>
+  <data name="GMENU_S3" xml:space="preserve">
+    <value>子彈數量</value>
+    <comment>子彈數量</comment>
+  </data>
+  <data name="GMENU_S4" xml:space="preserve">
+    <value>抵擋及移動</value>
+    <comment>抵擋及移動</comment>
+  </data>
+  <data name="GMENU_S5" xml:space="preserve">
+    <value>HP</value>
+    <comment>HP</comment>
+  </data>
+  <data name="MENU_MSG" xml:space="preserve">
+    <value>系統訊息</value>
+    <comment>系統訊息</comment>
+  </data>
+  <data name="MENU_MSGC" xml:space="preserve">
+    <value>新的遊戲會將您上次的遊戲紀錄給清除！？</value>
+    <comment>新的遊戲會將您上次的遊戲紀錄給清除！？</comment>
+  </data>
+  <data name="MENU_NEWGAME" xml:space="preserve">
+    <value>新　遊　戲</value>
+    <comment>新　遊　戲</comment>
+  </data>
+  <data name="MENU_READ" xml:space="preserve">
+    <value>讀　取　遊　戲</value>
+    <comment>讀　取　遊　戲</comment>
+  </data>
+  <data name="MENU_SCORE" xml:space="preserve">
+    <value>遊　戲　分　數</value>
+    <comment>遊　戲　分　數</comment>
+  </data>
+  <data name="MENU_TEACH" xml:space="preserve">
+    <value>遊　戲　教　學</value>
+    <comment>遊　戲　教　學</comment>
+  </data>
+  <data name="MENU_WRITER" xml:space="preserve">
+    <value>關　於　作　者</value>
+    <comment>關　於　作　者</comment>
+  </data>
+  <data name="SCORE_1" xml:space="preserve">
+    <value>最高分數</value>
+    <comment>最高分數</comment>
+  </data>
+  <data name="SCORE_1A" xml:space="preserve">
+    <value>排 名</value>
+    <comment>排 名</comment>
+  </data>
+  <data name="SCORE_1B" xml:space="preserve">
+    <value>分 數</value>
+    <comment>分 數</comment>
+  </data>
+  <data name="SCORE_2" xml:space="preserve">
+    <value>歷史分數</value>
+    <comment>歷史分數</comment>
+  </data>
+  <data name="SCORE_2A" xml:space="preserve">
+    <value>日期時間</value>
+    <comment>日期時間</comment>
+  </data>
+  <data name="SCORE_2B" xml:space="preserve">
+    <value>關卡</value>
+    <comment>關卡</comment>
+  </data>
+  <data name="SCORE_2C" xml:space="preserve">
+    <value>分數</value>
+    <comment>分數</comment>
+  </data>
+  <data name="SCORE_TITLE" xml:space="preserve">
+    <value>遊戲分數</value>
+    <comment>遊戲分數</comment>
+  </data>
+  <data name="SELECT_EASY" xml:space="preserve">
+    <value>輕鬆玩</value>
+    <comment>輕鬆玩</comment>
+  </data>
+  <data name="SELECT_HARD" xml:space="preserve">
+    <value>困難，我想挑戰！</value>
+    <comment>困難，我想挑戰！</comment>
+  </data>
+  <data name="SELECT_NORMAL" xml:space="preserve">
+    <value>正常</value>
+    <comment>正常</comment>
+  </data>
+  <data name="SELECT_OK" xml:space="preserve">
+    <value>確　定</value>
+    <comment>確　定</comment>
+  </data>
+  <data name="SELECT_TITLE" xml:space="preserve">
+    <value> 請選擇難易度：</value>
+    <comment>請選擇難易度：</comment>
+  </data>
+  <data name="STOP_BACK" xml:space="preserve">
+    <value>返　回</value>
+    <comment>返　回</comment>
+  </data>
+  <data name="STOP_EXIT" xml:space="preserve">
+    <value>離開遊戲</value>
+    <comment>離開遊戲</comment>
+  </data>
+  <data name="TEACH_M1" xml:space="preserve">
+    <value>戰機移動</value>
+    <comment>戰機移動</comment>
+  </data>
+  <data name="TEACH_M2" xml:space="preserve">
+    <value>發射子彈</value>
+    <comment>發射子彈</comment>
+  </data>
+  <data name="TEACH_M3" xml:space="preserve">
+    <value>取得寶物</value>
+    <comment>取得寶物</comment>
+  </data>
+  <data name="TEACH_M4" xml:space="preserve">
+    <value>星星勳章</value>
+    <comment>星星勳章</comment>
+  </data>
+  <data name="TEACH_M5" xml:space="preserve">
+    <value>戰機防禦</value>
+    <comment>戰機防禦</comment>
+  </data>
+  <data name="TEACH_TITLE" xml:space="preserve">
+    <value>遊戲教學</value>
+    <comment>遊戲教學</comment>
+  </data>
+</root>

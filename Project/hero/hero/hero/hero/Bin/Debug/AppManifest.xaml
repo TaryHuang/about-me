@@ -1,0 +1,13 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="hero" EntryPointType="hero.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="hero" Source="hero.dll" />
+    <AssemblyPart x:Name="heroLib" Source="heroLib.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="TARY_Library" Source="TARY_Library.dll" />
+    <AssemblyPart x:Name="TARY_Library_Silverlight" Source="TARY_Library_Silverlight.dll" />
+    <AssemblyPart Source="zh-CN/hero.resources.dll" />
+    <AssemblyPart Source="zh-TW/hero.resources.dll" />
+    <AssemblyPart Source="ja-JP/hero.resources.dll" />
+    <AssemblyPart Source="en-US/hero.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

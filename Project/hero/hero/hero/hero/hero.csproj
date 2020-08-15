@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7503B516-683E-4541-853F-876151995122}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hero</RootNamespace>
+    <AssemblyName>hero</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>en-US;zh-CN;zh-TW;ja-JP;</SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>hero.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>hero.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Devices.Sensors" />
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="microsoft.xna.framework.interop" />
+    <Reference Include="system.data.linq" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+    <Reference Include="System.Xml.Serialization" />
+    <Reference Include="TARY_Library">
+      <HintPath>..\TARY_Library.dll</HintPath>
+    </Reference>
+    <Reference Include="TARY_Library_Silverlight">
+      <HintPath>..\TARY_Library_Silverlight.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BALL\ball_F1.cs" />
+    <Compile Include="BALL\ball_IF.cs" />
+    <Compile Include="BALL\ball_Main.cs" />
+    <Compile Include="BALL\ball_M3.cs" />
+    <Compile Include="BAR.cs" />
+    <Compile Include="BG.cs" />
+    <Compile Include="db\Contacts_Score.cs" />
+    <Compile Include="db\Contacts.cs" />
+    <Compile Include="db\DBHandler.cs" />
+    <Compile Include="GamePage.xaml.cs">
+      <DependentUpon>GamePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GameTeach.xaml.cs">
+      <DependentUpon>GameTeach.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HERO.cs" />
+    <Compile Include="HPBAR.cs" />
+    <Compile Include="LanguageData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LanguageData.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Language\Language.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Language.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Language\Language.zh-CN.Designer.cs">
+      <DependentUpon>Language.zh-CN.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Language\Language.zh-TW.Designer.cs">
+      <DependentUpon>Language.zh-TW.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Language\Language.ja-JP.Designer.cs">
+      <DependentUpon>Language.ja-JP.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Language\Language.en-US.Designer.cs">
+      <DependentUpon>Language.en-US.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="LV.cs" />
+    <Compile Include="lv\LV1.cs" />
+    <Compile Include="lv\LV_IF.cs" />
+    <Compile Include="lv\LV4.cs" />
+    <Compile Include="lv\LV0.cs" />
+    <Compile Include="lv\LV3.cs" />
+    <Compile Include="lv\LV2.cs" />
+    <Compile Include="lv\LV5.cs" />
+    <Compile Include="lv\LV7.cs" />
+    <Compile Include="lv\LV8.cs" />
+    <Compile Include="lv\LV9.cs" />
+    <Compile Include="lv\LV10.cs" />
+    <Compile Include="lv\LV11.cs" />
+    <Compile Include="lv\LV12.cs" />
+    <Compile Include="lv\LV13.cs" />
+    <Compile Include="lv\LV14.cs" />
+    <Compile Include="lv\LV15.cs" />
+    <Compile Include="lv\LV6.cs" />
+    <Compile Include="lv\LV18.cs" />
+    <Compile Include="lv\LV19.cs" />
+    <Compile Include="lv\LV17.cs" />
+    <Compile Include="lv\LV20.cs" />
+    <Compile Include="lv\LV22.cs" />
+    <Compile Include="lv\LV16.cs" />
+    <Compile Include="lv\LV21.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MENU.cs" />
+    <Compile Include="MENU_DEAD.cs" />
+    <Compile Include="MonsterFired.cs" />
+    <Compile Include="monster\MONSTER1.cs" />
+    <Compile Include="monster\MONSTER_IF.cs" />
+    <Compile Include="monster\MONSTER.cs" />
+    <Compile Include="monster\MONSTER3.cs" />
+    <Compile Include="monster\MONSTER4.cs" />
+    <Compile Include="monster\MONSTER5.cs" />
+    <Compile Include="monster\MONSTER31.cs" />
+    <Compile Include="monster\MONSTER41.cs" />
+    <Compile Include="monster\MONSTER6.cs" />
+    <Compile Include="monster\MONSTER1_C.cs" />
+    <Compile Include="monster\MONSTER2_C.cs" />
+    <Compile Include="monster\MONSTER21.cs" />
+    <Compile Include="monster\MONSTER21_C.cs" />
+    <Compile Include="monster\MONSTER3_C.cs" />
+    <Compile Include="monster\MONSTER31_C.cs" />
+    <Compile Include="monster\MONSTER4_C.cs" />
+    <Compile Include="monster\MONSTER41_C.cs" />
+    <Compile Include="monster\MONSTER5_C.cs" />
+    <Compile Include="monster\MONSTER6_C.cs" />
+    <Compile Include="monster\BOSS1.cs" />
+    <Compile Include="monster\BOSS2.cs" />
+    <Compile Include="monster\BOSS3.cs" />
+    <Compile Include="monster\MONSTER1_B.cs" />
+    <Compile Include="monster\MONSTER21_B.cs" />
+    <Compile Include="monster\MONSTER2_B.cs" />
+    <Compile Include="monster\MONSTER31_B.cs" />
+    <Compile Include="monster\MONSTER41_B.cs" />
+    <Compile Include="monster\MONSTER4_B.cs" />
+    <Compile Include="monster\MONSTER5_B.cs" />
+    <Compile Include="monster\MONSTER6_B.cs" />
+    <Compile Include="monster\MONSTER3_B.cs" />
+    <Compile Include="monster\MONSTER51.cs" />
+    <Compile Include="monster\MONSTER51_B.cs" />
+    <Compile Include="monster\MONSTER51_C.cs" />
+    <Compile Include="monster\MONSTER1_A.cs" />
+    <Compile Include="monster\MONSTER21_A.cs" />
+    <Compile Include="monster\MONSTER2_A.cs" />
+    <Compile Include="monster\MONSTER31_A.cs" />
+    <Compile Include="monster\MONSTER3_A.cs" />
+    <Compile Include="monster\MONSTER41_A.cs" />
+    <Compile Include="monster\MONSTER4_A.cs" />
+    <Compile Include="monster\MONSTER51_A.cs" />
+    <Compile Include="monster\MONSTER5_A.cs" />
+    <Compile Include="monster\MONSTER6_A.cs" />
+    <Compile Include="monster\MONSTER11.cs" />
+    <Compile Include="monster\MONSTER11_A.cs" />
+    <Compile Include="monster\MONSTER11_C.cs" />
+    <Compile Include="monster\MONSTER11_B.cs" />
+    <Compile Include="monster\BOSS5.cs" />
+    <Compile Include="monster\BOSS5_G.cs" />
+    <Compile Include="monster\MONSTER7.cs" />
+    <Compile Include="monster\MONSTER7_B.cs" />
+    <Compile Include="monster\MONSTER7_A.cs" />
+    <Compile Include="monster\MONSTER7_C.cs" />
+    <Compile Include="monster\BOSS4.cs" />
+    <Compile Include="monster\BOSS6.cs" />
+    <Compile Include="monster\BOSS7.cs" />
+    <Compile Include="monster\MONSTER71.cs" />
+    <Compile Include="monster\BOSS51.cs" />
+    <Compile Include="monster\BOSS51_G.cs" />
+    <Compile Include="myScore.xaml.cs">
+      <DependentUpon>myScore.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OnePiece.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AppServiceProvider.cs" />
+    <Compile Include="myHERO.cs" />
+    <Compile Include="SCORE.cs" />
+    <Compile Include="STOP.cs" />
+    <Compile Include="BALL\ball_Sec.cs" />
+    <Compile Include="monster\MONSTER2.cs" />
+    <Compile Include="BALL\ball_M1.cs" />
+    <Compile Include="BALL\ball_M.cs" />
+    <Compile Include="BALL\ball_M2.cs" />
+    <Compile Include="MonsterThg.cs" />
+    <Compile Include="GAME_END.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="GamePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GameTeach.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="myScore.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppResLib.dll" />
+    <Content Include="AppResLib.dll.0404.mui" />
+    <Content Include="AppResLib.dll.0409.mui" />
+    <Content Include="AppResLib.dll.0411.mui" />
+    <Content Include="AppResLib.dll.0804.mui" />
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\teach_a2.png" />
+    <Resource Include="Images\teach_a1.png" />
+    <Resource Include="Images\teach_a3.png" />
+    <Resource Include="Images\teach_b1.png" />
+    <Resource Include="Images\dd.png" />
+    <Resource Include="Images\555.png" />
+    <Resource Include="Images\666.png" />
+    <Content Include="ImagesLib\TaryPage\people.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ImagesLib\TaryPage\star.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ImagesLib\TaryPage\star2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ImagesLib\TaryPage\unlock.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SplashScreenImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\heroLib\heroLib.csproj">
+      <Name>heroLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="LanguageData.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>LanguageData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\Language.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Language.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\Language.zh-CN.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Language.zh-CN.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\Language.zh-TW.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Language.zh-TW.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\Language.ja-JP.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Language.ja-JP.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\Language.en-US.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Language.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\aaa.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>
