@@ -1,15 +1,23 @@
 記錄小弟從高中時期到出社會前的作品&滿滿的辛酸回憶
 
-作品日期區間2006 ~ 2014年
+作品日期 2006 ~ 2014年
 
 
 ## 項目清冊
 
-* [2006-論壇架站機器 ](./Flash_http.md)
-* [Javascript 编码规范](./javascript.md)
-* [CSS 编码规范](./css.md)
-* [HTML 编码规范](./html.md)
-* [Markdown 编写规范](./markdown.md)
+* [2006 - 論壇架站機器(PHP)](./Project/Flash_http.md)
+* [2006 - 收集者Blog(PHP)](./Project/Blog.md)
+* [2008 - 希望Online回憶錄(FLASH)](./Project/Blog.md)
+* [2009 - Gblog 2.0(PHP)](./.md)
+* [2010 - 赤坂拉麵(VB)](./markdown.md)
+* [2010 - 競賽遊戲設計(VB)](./markdown.md)
+* [2012 - Winwodw 7登入檔(C#)](./markdown.md)
+* [2012 - Winwodw 7登入檔](./markdown.md)
+* [2012 - Winwodw 7登入檔](./markdown.md)
+* [2012 - Winwodw 7登入檔](./markdown.md)
+* [2012 - Winwodw 7登入檔](./markdown.md)
+* [2012 - Winwodw 7登入檔](./markdown.md)
+* [2012 - 大兵日記(HTML)](./markdown.md)
 
 ## 计划
 
