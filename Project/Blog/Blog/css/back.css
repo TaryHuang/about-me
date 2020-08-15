@@ -1,0 +1,81 @@
+.login_body__body {
+	text-align: center;
+	vertical-align: top;
+	display: block;
+	border: 1px dashed #000000;
+	background-color: #FFFFFF;
+	height: 450px;
+}
+.login_body_title {
+	text-align: center;
+	vertical-align: top;
+	display: block;
+	height: 520px;
+	width: 600px;
+}
+.back__centers {
+	padding: 10px;
+}
+.back__a1 {
+	border: 1px solid #0066FF;
+	padding: 2px;
+	width: 150px;
+}
+.back__a2 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #0066FF;
+	border-right-color: #0066FF;
+	border-bottom-color: #0066FF;
+	border-left-color: #0066FF;
+	padding: 5px;
+	height: 50px;
+}
+.login_body2 {
+	padding: 5px;
+	border: none;
+}
+
+.broad_str_text{
+	border: 1px none #000000;
+	padding: 3px;
+	text-align: left;
+	vertical-align: top;
+	white-space: pre;
+	display: inline;
+	height: 400px;
+	width: 500px;
+	position: relative;
+	visibility: visible;
+}
+.div_see_9 {
+	background-color: #FFFFFF;
+	padding: 3px;
+	height: 150px;
+	width: 320px;
+	border: 1px solid #333333;
+}
+.div__round_style {
+	border: 1px solid #000000;
+	height: 0px;
+	width: 0px;
+}
+.last_index__div {
+	border: 1px solid #000000;
+	padding: 2px;
+}
+.back_div_text {
+	background-color: #FFFFFF;
+	height: 80px;
+	width: 250px;
+	border: 1px solid #000000;
+	overflow: auto;
+	position: relative;
+	visibility: visible;
+}

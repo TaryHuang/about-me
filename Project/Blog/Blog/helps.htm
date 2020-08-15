@@ -1,0 +1,131 @@
+<script language="javascript">
+function link_1(){
+http=prompt('請 輸 入 網 址','http://');
+nameaas=prompt('請 輸 入 名 稱','名稱');
+document.mykings.bodys.value+='\n[url='+http+']**'+nameaas+'**[/url]';
+}//end
+
+
+function a_1(){
+nameaa=prompt('請 輸 入 文 字 ','文字');
+size=prompt('請 輸 入 文 字 大 小\n(1.)12px (2.)14px (3.)16px (4.)20px (5.)26px (6.)30px','2');
+
+
+switch (size){
+case '1':sizes='12';break;
+case '2':sizes='14';break;
+case '3':sizes='16';break;
+case '4':sizes='20';break;
+case '5':sizes='26';break;
+case '6':sizes='30';break;
+default :sizes='12';
+}//end color
+document.mykings.bodys.value+='\n[A='+'色碼'+';font-size:'+sizes+'px]**'+nameaa+'**[/A]';
+}//end
+
+
+function b_1(){
+words=prompt('請 輸 入 文 字','文字');
+document.mykings.bodys.value+='\n[b]**'+words+'**[/b]';
+}//end
+
+
+function img_1(){
+words=prompt('請 輸 入 網 址','http://');
+width1=prompt('請 輸 入 寬 度','400');
+height1=prompt('請 輸 入 高 度','300');
+if(width1=='' || height1==''){
+power='';
+}else{
+power=' width='+width1+' height='+height1;
+}
+document.mykings.bodys.value+='\n[img='+words+' '+power+'**]';
+}//end
+
+
+function music_1(){
+https=prompt('請 輸 入 網 址','http://');
+document.mykings.bodys.value+='\n[music]**'+https+'**[/music]';
+}//end
+
+
+function mtv_1(){
+words=prompt('請 輸 入 網 址','http://');
+width1=prompt('請 輸 入 寬 度','400');
+height1=prompt('請 輸 入 高 度','300');
+if(width1=='' || height1==''){
+power='';
+}else{
+power=' width='+width1+' height='+height1;
+}
+document.mykings.bodys.value+='\n[MTV='+words+power+'**]';
+}//end
+
+
+function swf_1(){
+words=prompt('請 輸 入 網 址','http://');
+width1=prompt('請 輸 入 寬 度','400');
+height1=prompt('請 輸 入 高 度','300');
+if(width1=='' || height1==''){
+power='';
+}else{
+power=' width='+width1+' height='+height1;
+}
+document.mykings.bodys.value+='\n[swf='+words+'**]'+power+'[/swf]';
+}//end
+
+
+function color__s1(){
+document.mykings.color__name.value=document.mykings.a___color.value;
+}//end
+
+
+
+
+
+
+
+
+
+
+function Gi_div(){
+css=prompt('請 輸 入 CSS標籤','css標籤');
+document.myforms.value__ans.value='[div='+css+'**]     --其他程式--    [**/div]';
+}
+function Gi_img(){
+http=prompt('請 輸 入 img 網 址','http://');
+document.myforms.value__ans.value='[img='+http+']';
+}
+function Gi_swf(){
+http=prompt('請 輸 入 swf 網 址','http://');
+width=prompt('請 輸 入 swf 寬度','200');
+height=prompt('請 輸 入 swf 高度','200');
+document.myforms.value__ans.value='[swf=width='+width+'  height='+height+'  src='+http+']';
+}
+
+function Gi_flash(){
+http=prompt('請 輸 入 swf 網 址','http://');
+width=prompt('請 輸 入 swf 寬度','200');
+height=prompt('請 輸 入 swf 高度','200');
+document.myforms.value__ans.value='[flash=width='+width+'  height='+height+'  src='+http+' ]';
+}
+
+
+function Gi_alls(){
+document.myforms2.value_css_cools.value=document.myforms.k_css.value;
+document.myforms2.value_style_cools.value=document.myforms.val_styles.value;
+document.myforms2.value_divs_cools.value=document.myforms.k_xp.value;
+document.myforms2.g_index_img.value=document.myforms.k_title.value;
+}
+function Gi_https(){
+http=prompt('連結網頁','http://');
+word=prompt('名稱','連結');
+target=prompt('Target\n-----1._blank  2._self','1');
+if(target==1){
+target='_self';
+}else{
+target='_target';
+}
+document.myforms2.text__html.value+='[a='+http+' target="_self"]'+'[/a]';
+}
+</script>

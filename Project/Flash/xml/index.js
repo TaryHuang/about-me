@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><songs><sort title="::我的最愛:: 　希望～Ｏｎｌｉｎｅ" path="" fun="0" /><sort title="::介紹:: 　陪伴我多年的線上遊戲ˋˇˊ" path="" fun="0" /><sort title="::暱稱:: 　御姐小護士" path="" fun="0" /><sort title="::性別:: 　女" path="" fun="0" /><sort title="::職業:: 　祭司" path="" fun="0" /></songs>

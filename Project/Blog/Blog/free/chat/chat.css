@@ -1,0 +1,35 @@
+.div_table2 {
+	background-color: #000000;
+	border: 1px dotted #FFCC00;
+	overflow: auto;
+	position: absolute;
+	visibility: visible;
+	height: 317px;
+	width: 590px;
+	left: 223px;
+	top: 43px;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+	word-spacing: 1pt;
+}
+.div_table {
+	overflow: auto;
+	position: absolute;
+	visibility: visible;
+	height: 237px;
+	width: 165px;
+	left: 43px;
+	top: 70px;
+	color: #FFFFFF;
+	border: 1px solid #FFCC00;
+}
+.div_table3 {
+	overflow: auto;
+	position: absolute;
+	visibility: visible;
+	height: 35px;
+	width: 590px;
+	left: 247px;
+	top: 11px;
+	color: #FFFFFF;
+}

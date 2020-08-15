@@ -1,0 +1,89 @@
+.say_div1 {
+	background-color: #FFCC00;
+	padding: 3px;
+	border: 1px solid #000000;
+	overflow: hidden;
+	position: absolute;
+	visibility: visible;
+	z-index: auto;
+	height: 310px;
+	width: 714px;
+	left: 139px;
+	top: 149px;
+}
+.say_div1_1 {
+	padding: 3px;
+	border: 1px solid #000000;
+	overflow: visible;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	height: 13px;
+	width: 173px;
+	left: 16px;
+	top: 16px;
+	font-size: 12px;
+	background-color: #FFFFFF;
+}
+
+.say_div1_2 {
+	background-color: #FFFFFF;
+	padding: 3px;
+	border: 1px solid #000000;
+	overflow: auto;
+	position: absolute;
+	visibility: visible;
+	z-index: auto;
+	height: 198px;
+	width: 371px;
+	left: 316px;
+	top: 98px;
+	white-space: pre;
+}
+.say_div1_3 {
+	background-color: #FFFFFF;
+	padding: 3px;
+	border: 1px solid #000000;
+	overflow: visible;
+	position: absolute;
+	visibility: visible;
+	z-index: auto;
+	height: 15px;
+	width: 132px;
+	left: 555px;
+	top: 69px;
+}
+.say_div1_4 {
+	background-color: #FFFFFF;
+	padding: 3px;
+	border: 1px solid #000000;
+	overflow: visible;
+	position: absolute;
+	visibility: visible;
+	z-index: auto;
+	height: 9px;
+	width: 60px;
+	left: 644px;
+	top: 6px;
+	vertical-align: middle;
+}
+.say_div2__all {
+	overflow: visible;
+	position: absolute;
+	visibility: visible;
+	left: 400px;
+	top: 156px;
+	height: 65px;
+	width: 133px;
+	white-space: pre;
+}
+.say_div2__all1 {
+	overflow: visible;
+	position: absolute;
+	visibility: visible;
+	left: 155px;
+	top: 210px;
+	height: 110px;
+	width: 288px;
+	white-space: pre;
+}

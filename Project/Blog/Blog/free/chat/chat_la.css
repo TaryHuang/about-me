@@ -1,0 +1,52 @@
+.div_table2 {
+	border: 1px solid #333333;
+	overflow: auto;
+	position: absolute;
+	visibility: visible;
+	height: 327px;
+	width: 635px;
+	left: 44px;
+	top: 38px;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+	word-spacing: 1pt;
+	z-index: 1;
+	padding: 1px 80px 1px 10px;
+}
+.div_table {
+	overflow: hidden;
+	position: absolute;
+	visibility: visible;
+	height: 159px;
+	width: 133px;
+	left: 518px;
+	top: 54px;
+	color: #FFFFFF;
+	border: 1px dotted #666666;
+	z-index: -1;
+	font-size: 12px;
+}
+.div_table3 {
+	overflow: auto;
+	position: absolute;
+	visibility: visible;
+	height: 35px;
+	width: 592px;
+	left: 159px;
+	top: 9px;
+	color: #FFFFFF;
+	border: 1px solid #FFCC00;
+}
+.div_table4 {
+	overflow: auto;
+	position: absolute;
+	visibility: visible;
+	z-index: -1;
+	height: 120px;
+	width: 229px;
+	left: 423px;
+	top: 228px;
+	border: 1px dotted #666666;
+	font-size: 12px;
+	padding: 3px;
+}
