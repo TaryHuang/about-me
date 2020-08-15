@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\COOL2.dll
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\COOL2.pdb
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\COOL2.xap
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\obj\Debug\COOL2.g.resources
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\obj\Debug\COOL2.dll
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\obj\Debug\COOL2.pdb
+c:\users\user\documents\visual studio 2010\Projects\COOL2\COOL2\obj\Debug\XapCacheFile.xml

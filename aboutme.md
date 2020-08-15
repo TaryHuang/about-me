@@ -18,7 +18,6 @@
 * [2012 - 格子塗鴉牆 (C# + XNA)](./Project/Flash_http/)
 * [2012 - 最終戰機 (C# + XNA)](./Project/Flash_http/)
 * [2012 - 章魚哥的球 (C# + XNA)](./Project/bobo/)
-* [2012 - 大兵日記 (HTML)](./Project/Dabing/)
 
 ## 计划
 
