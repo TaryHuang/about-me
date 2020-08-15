@@ -8,7 +8,7 @@
 * [2006 - 論壇架站機器  (PHP源碼)](./Project/Flash_http/)
 * [2007 - 收集者Blog  (PHP源碼)](./Project/Blog/)
 * [2008 - 希望Online回憶錄  (FLASH)](./Project/Flash/)
-* [2009 - Gblog 2.0  (PHP源碼 ★)](./Project/Gblog/)
+* [2009 - Gblog 2.0  (PHP源碼) ★](./Project/Gblog/)
 * [2010 - 赤坂拉麵  (VB) ★](./Project/noodles/)
 * [2010 - 競賽遊戲設計  (VB) ★](./Project/CarGame/)
 * [2012 - Winwodw 7登入檔  (C#)](./Project/WindowRegiter/)
