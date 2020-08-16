@@ -5,6 +5,8 @@
 
 程式語言 : C# 
 
+原始碼：https://github.com/TaryHuang/Photo
+
 
 ## 操作畫面
 
