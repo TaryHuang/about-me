@@ -24,7 +24,7 @@
 |  | 2012 | [老師晚點名](./MyProject/Rollcall/) |  C# | ✗ |✗ |微軟30小時不間斷Coding |
 |  | 2012 | [汽機車筆試](./MyProject/Moto/) |  C#  | ✗ |✗ |為了考駕照筆試..|
 |★| 2013 | [英文失敗者](./MyProject/English/) |  C#  | ✗ |✗ |為了磨練英文..|
-|★| 2013 | [Photo秘書](./MyProject/Photo/) |  C#  | ✗ |✗ |參考..美圖秀秀|
+|★| 2013 | [Photo秘書](./MyProject/photo/) |  C#  | ✗ |✗ |參考..美圖秀秀|
 
 
 
