@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{62D77356-D331-4470-B85D-DE6630607CFD}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Stickies</RootNamespace>
+    <AssemblyName>Stickies</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Stickies.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Stickies.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="system.data.linq" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="TARY_Library_Silverlight">
+      <HintPath>..\..\..\..\2013.06.23\TARY_Library_Silverlight\TARY_Library_Silverlight\Bin\Release\TARY_Library_Silverlight.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DB\DBHandler.cs" />
+    <Compile Include="DB\MTable.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icon\appbar.activate.rest.png" />
+    <Content Include="icon\appbar.addcomment.rest.png" />
+    <Content Include="icon\appbar.addnotes.rest.png" />
+    <Content Include="icon\appbar.addpicture.rest.png" />
+    <Content Include="icon\appbar.addtag.rest.png" />
+    <Content Include="icon\appbar.alarmclock.rest.png" />
+    <Content Include="icon\appbar.animal.cat.rest.png" />
+    <Content Include="icon\appbar.animal.dog.rest.png" />
+    <Content Include="icon\appbar.animal.sheep.rest.png" />
+    <Content Include="icon\appbar.animal.snail.rest.png" />
+    <Content Include="icon\appbar.at.rest.png" />
+    <Content Include="icon\appbar.attach.rest.png" />
+    <Content Include="icon\appbar.audio.rest.png" />
+    <Content Include="icon\appbar.calendar.late.rest.png" />
+    <Content Include="icon\appbar.car.rest.png" />
+    <Content Include="icon\appbar.cellphone.rest.png" />
+    <Content Include="icon\appbar.drink.beer.rest.png" />
+    <Content Include="icon\appbar.drink.cocktail.rest.png" />
+    <Content Include="icon\appbar.drink.coffee.rest.png" />
+    <Content Include="icon\appbar.edittext.rest.png" />
+    <Content Include="icon\appbar.favs.removefrom.rest.png" />
+    <Content Include="icon\appbar.feature.frontcamera.rest.png" />
+    <Content Include="icon\appbar.folder.rest.png" />
+    <Content Include="icon\appbar.food.cake.rest.png" />
+    <Content Include="icon\appbar.food.pizza.rest.png" />
+    <Content Include="icon\appbar.format.rest.png" />
+    <Content Include="icon\appbar.game.achievements.rest.png" />
+    <Content Include="icon\appbar.game.addfriend.rest.png" />
+    <Content Include="icon\appbar.game.removefriend.rest.png" />
+    <Content Include="icon\appbar.gotoaddressbar.rest.png" />
+    <Content Include="icon\appbar.gotodate.rest.png" />
+    <Content Include="icon\appbar.gotoslide.rest.png" />
+    <Content Include="icon\appbar.goup.rest.png" />
+    <Content Include="icon\appbar.heart.broken.rest.png" />
+    <Content Include="icon\appbar.heart.rest.png" />
+    <Content Include="icon\appbar.heart2.broken.rest.png" />
+    <Content Include="icon\appbar.heart2.empty.rest.png" />
+    <Content Include="icon\appbar.heart2.rest.png" />
+    <Content Include="icon\appbar.keyboard.rest.png" />
+    <Content Include="icon\appbar.lamp.rest.png" />
+    <Content Include="icon\appbar.linkto.rest.png" />
+    <Content Include="icon\appbar.linkto.withlinks.rest.png" />
+    <Content Include="icon\appbar.lips.rest.png" />
+    <Content Include="icon\appbar.lock.rest.png" />
+    <Content Include="icon\appbar.manage.rest.png" />
+    <Content Include="icon\appbar.map.centerme.rest.png" />
+    <Content Include="icon\appbar.map.checkin.rest.png" />
+    <Content Include="icon\appbar.map.direction.rest.png" />
+    <Content Include="icon\appbar.map.neighboorhood.rest.png" />
+    <Content Include="icon\appbar.map.poi.rest.png" />
+    <Content Include="icon\appbar.map.position.rest.png" />
+    <Content Include="icon\appbar.mic.mute.rest.png" />
+    <Content Include="icon\appbar.mic.rest.png" />
+    <Content Include="icon\appbar.money.rest.png" />
+    <Content Include="icon\appbar.movetofolder.rest.png" />
+    <Content Include="icon\appbar.music.shuffle.rest.png" />
+    <Content Include="icon\appbar.notes.rest.png" />
+    <Content Include="icon\appbar.numberlist.rest.png" />
+    <Content Include="icon\appbar.palmtree.rest.png" />
+    <Content Include="icon\appbar.people.1.rest.png" />
+    <Content Include="icon\appbar.people.2.rest.png" />
+    <Content Include="icon\appbar.phone.asterisk.rest.png" />
+    <Content Include="icon\appbar.phone.numbersign.rest.png" />
+    <Content Include="icon\appbar.phone.rest.png" />
+    <Content Include="icon\appbar.phonebook.rest.png" />
+    <Content Include="icon\appbar.phonekeys.rest.png" />
+    <Content Include="icon\appbar.photo.autoflash.rest.png" />
+    <Content Include="icon\appbar.photo.fix.rest.png" />
+    <Content Include="icon\appbar.photo.fixundo.rest.png" />
+    <Content Include="icon\appbar.photo.flash.rest.png" />
+    <Content Include="icon\appbar.photo.iris.rest.png" />
+    <Content Include="icon\appbar.photo.light.rest.png" />
+    <Content Include="icon\appbar.photo.noflash.rest.png" />
+    <Content Include="icon\appbar.photo.nolight.rest.png" />
+    <Content Include="icon\appbar.photo.redeye.rest.png" />
+    <Content Include="icon\appbar.pin.rest.png" />
+    <Content Include="icon\appbar.plane.rest.png" />
+    <Content Include="icon\appbar.replymeetingrequest.rest.png" />
+    <Content Include="icon\appbar.repond.rest.png" />
+    <Content Include="icon\appbar.rose.dimmed.rest.png" />
+    <Content Include="icon\appbar.rose.rest.png" />
+    <Content Include="icon\appbar.search.refine.rest.png" />
+    <Content Include="icon\appbar.send.photo.rest.png" />
+    <Content Include="icon\appbar.send.text.rest.png" />
+    <Content Include="icon\appbar.send.video.rest.png" />
+    <Content Include="icon\appbar.sendmessage.rest.png" />
+    <Content Include="icon\appbar.sendpoi.rest.png" />
+    <Content Include="icon\appbar.smile.1.rest.png" />
+    <Content Include="icon\appbar.smile.10.rest.png" />
+    <Content Include="icon\appbar.smile.11.rest.png" />
+    <Content Include="icon\appbar.smile.12.rest.png" />
+    <Content Include="icon\appbar.smile.13.rest.png" />
+    <Content Include="icon\appbar.smile.14.rest.png" />
+    <Content Include="icon\appbar.smile.15.rest.png" />
+    <Content Include="icon\appbar.smile.16.rest.png" />
+    <Content Include="icon\appbar.smile.17.rest.png" />
+    <Content Include="icon\appbar.smile.18.rest.png" />
+    <Content Include="icon\appbar.smile.19.rest.png" />
+    <Content Include="icon\appbar.smile.2.rest.png" />
+    <Content Include="icon\appbar.smile.20.rest.png" />
+    <Content Include="icon\appbar.smile.21.rest.png" />
+    <Content Include="icon\appbar.smile.22.rest.png" />
+    <Content Include="icon\appbar.smile.23.rest.png" />
+    <Content Include="icon\appbar.smile.3.rest.png" />
+    <Content Include="icon\appbar.smile.4.rest.png" />
+    <Content Include="icon\appbar.smile.5.rest.png" />
+    <Content Include="icon\appbar.smile.6.rest.png" />
+    <Content Include="icon\appbar.smile.7.rest.png" />
+    <Content Include="icon\appbar.smile.8.rest.png" />
+    <Content Include="icon\appbar.smile.9.rest.png" />
+    <Content Include="icon\appbar.social.like.rest.png" />
+    <Content Include="icon\appbar.social.retweet.rest.png" />
+    <Content Include="icon\appbar.social.unlike.rest.png" />
+    <Content Include="icon\appbar.speaker.rest.png" />
+    <Content Include="icon\appbar.status.rest.png" />
+    <Content Include="icon\appbar.switch.rest.png" />
+    <Content Include="icon\appbar.tabs.2.rest.png" />
+    <Content Include="icon\appbar.tabs.3.rest.png" />
+    <Content Include="icon\appbar.tabs.4.rest.png" />
+    <Content Include="icon\appbar.tabs.5.rest.png" />
+    <Content Include="icon\appbar.tabs.6.rest.png" />
+    <Content Include="icon\appbar.tabs.rest.png" />
+    <Content Include="icon\appbar.task.complete.rest.png" />
+    <Content Include="icon\appbar.time.rest.png" />
+    <Content Include="icon\appbar.transport.repeat.rest.png" />
+    <Content Include="icon\appbar.transport.repeatone.rest.png" />
+    <Content Include="icon\appbar.transport.shuffle.rest.png" />
+    <Content Include="icon\appbar.voicemail.rest.png" />
+    <Content Include="icon\appbar.weather.moon.rest.png" />
+    <Content Include="icon\appbar.weather.rainbow.rest.png" />
+    <Content Include="icon\appbar.weather.sun.rest.png" />
+    <Content Include="icon\appbar.weather.umbrella.rest.png" />
+    <Content Include="icon\Crop.png" />
+    <Content Include="icon\toolbox.png" />
+    <Content Include="icon\Windows Phone 7 Application Bar Icons.png" />
+    <Content Include="ImagesLib\microphone\blank.png" />
+    <Content Include="ImagesLib\microphone\microphone.png" />
+    <Content Include="ImagesLib\microphone\play.png" />
+    <Content Include="ImagesLib\microphone\record.png" />
+    <Content Include="ImagesLib\microphone\speaker.png" />
+    <Content Include="ImagesLib\microphone\stop.png" />
+    <Content Include="ImagesLib\TaryPage\people.png" />
+    <Content Include="ImagesLib\TaryPage\star.png" />
+    <Content Include="ImagesLib\TaryPage\star2.png" />
+    <Content Include="ImagesLib\TaryPage\unlock.png" />
+    <Content Include="SplashScreenImage.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

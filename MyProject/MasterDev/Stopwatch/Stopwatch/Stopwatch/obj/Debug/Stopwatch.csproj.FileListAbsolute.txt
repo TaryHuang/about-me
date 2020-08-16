@@ -1,0 +1,16 @@
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\App.g.i.cs
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\MainPage.g.i.cs
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\ApplicationIcon.png
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\Background.png
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\AppManifest.xaml
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\Stopwatch.xap
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\XapCacheFile.xml
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\TARY_Library_Silverlight.dll
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\TARY_Library_Silverlight.pdb
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\ShowRecord.g.i.cs
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\Stopwatch.dll
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\Bin\Debug\Stopwatch.pdb
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\Stopwatch.dll
+C:\Users\Tary\Desktop\PROJ\Stopwatch\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb

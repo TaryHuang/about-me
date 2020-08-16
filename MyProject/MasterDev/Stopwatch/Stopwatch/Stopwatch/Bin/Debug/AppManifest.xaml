@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Stopwatch" EntryPointType="Stopwatch.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Stopwatch" Source="Stopwatch.dll" />
+    <AssemblyPart x:Name="TARY_Library_Silverlight" Source="TARY_Library_Silverlight.dll" />
+  </Deployment.Parts>
+</Deployment>

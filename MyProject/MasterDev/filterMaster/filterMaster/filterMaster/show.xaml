@@ -1,0 +1,41 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="filterMaster.show"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="728" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="False" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot 是放置所有頁面的根資料格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--TitlePanel 包含應用程式的名稱和頁面標題-->
+        <StackPanel x:Name="TitlePanel" Margin="0,-107,12,875"></StackPanel>
+        <Grid x:Name="PHOTO" />
+        <!--ContentPanel - 其他內容置於此-->
+    </Grid>
+ 
+   
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/icon/appbar.activate.rest.png" Text="還 原" Click="ApplicationBarIconButton_Click_1" />
+            <shell:ApplicationBarIconButton IconUri="/icon/appbar.transport.repeat.rest.png" Text="轉 向" Click="ApplicationBarIconButton_Click" />
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="亮   度"  x:Name="M_LIGHT" Click="M_LIGHT_Click" />
+                <shell:ApplicationBarMenuItem Text="對   比"  x:Name="M_Contrast" Click="M_Contrast_Click" />
+                <shell:ApplicationBarMenuItem Text="色彩調色"  x:Name="M_RGB" Click="M_RGB_Click" />
+                <shell:ApplicationBarMenuItem Text="特效風格"  x:Name="M_COLOR" Click="M_COLOR_Click" />
+                <shell:ApplicationBarMenuItem Text="馬賽克"  x:Name="M_MASK" Click="M_MASK_Click" />
+                <shell:ApplicationBarMenuItem Text="儲  存" Click="ApplicationBarMenuItem_Click_1" />
+                <shell:ApplicationBarMenuItem Text="上傳至facebook" Click="ApplicationBarMenuItem_Click" />
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

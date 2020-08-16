@@ -1,0 +1,15 @@
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\obj\Debug\App.g.i.cs
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\obj\Debug\MainPage.g.i.cs
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\obj\Debug\FBreport.g.resources
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\ApplicationIcon.png
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\Background.png
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\FBreport.dll
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\FBreport.pdb
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\AppManifest.xaml
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\FBreport.xap
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\Facebook.dll
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\Bin\Debug\TARY_Library_Silverlight.dll
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\obj\Debug\FBreport.dll
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\obj\Debug\FBreport.pdb
+C:\Users\Tary\Desktop\PROJ\FBreport\FBreport\FBreport\obj\Debug\XapCacheFile.xml

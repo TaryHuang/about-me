@@ -1,0 +1,15 @@
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\ApplicationIcon.png
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\Background.png
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\Stickies.dll
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\Stickies.pdb
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\AppManifest.xaml
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\Stickies.xap
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\TARY_Library_Silverlight.dll
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\Bin\Debug\TARY_Library_Silverlight.pdb
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\obj\Debug\App.g.i.cs
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\obj\Debug\MainPage.g.i.cs
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\obj\Debug\Stickies.g.resources
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\obj\Debug\Stickies.dll
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\obj\Debug\Stickies.pdb
+C:\Users\Tary\Desktop\PROJ\Stickies\Stickies\Stickies\obj\Debug\XapCacheFile.xml

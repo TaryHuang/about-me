@@ -1,0 +1,43 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Proverb.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot 是放置所有頁面的根資料格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+
+        <!--TitlePanel 包含應用程式的名稱和頁面標題-->
+        <!--ContentPanel - 其他內容置於此-->
+        <StackPanel  Height="550" HorizontalAlignment="Left"  Name="stackPanel1" VerticalAlignment="Top" Width="456" Margin="12,142,0,0">
+            <ListBox Height="550" Name="BOX" Width="456" />
+        </StackPanel>
+        <StackPanel  Height="34" HorizontalAlignment="Left" Margin="12,12,0,0" Name="stackPanel2" VerticalAlignment="Top" Width="456">
+            <TextBlock Height="30" Name="textBlock1" Text="每 日 諺 語" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Left" Margin="12,53,0,560" Name="Top" Width="456" />
+        <Button Content="Button" Height="72" HorizontalAlignment="Left" Margin="506,-122,0,0" Name="button1" VerticalAlignment="Top" Width="160" />
+    </Grid>
+ 
+    <!--顯示 ApplicationBar 使用方式的程式碼範例-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" >
+
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="分享至Facebook" Click="ApplicationBarMenuItem_Click_1" />
+                <shell:ApplicationBarMenuItem Text="釘選每日一句" Click="ApplicationBarMenuItem_Click" />
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

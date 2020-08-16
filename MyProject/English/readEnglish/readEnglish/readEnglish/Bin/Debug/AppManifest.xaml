@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="readEnglish" EntryPointType="readEnglish.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="readEnglish" Source="readEnglish.dll" />
+    <AssemblyPart x:Name="English2000" Source="English2000.dll" />
+    <AssemblyPart x:Name="OpenXLive" Source="OpenXLive.dll" />
+    <AssemblyPart x:Name="OpenXLive.Silverlight" Source="OpenXLive.Silverlight.dll" />
+    <AssemblyPart x:Name="TARY_Library_Silverlight" Source="TARY_Library_Silverlight.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+  </Deployment.Parts>
+</Deployment>
