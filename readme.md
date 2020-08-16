@@ -27,5 +27,5 @@
 |★| 2014 | [Photo秘書](./MyProject/photo/) |  C#  | ✗ |✗ |參考來源美圖秀秀|
 | | 2014 | [技術達人挑戰賽](./MyProject/MasterDev/) |  C#  | ✗ |✔ |為了Serven禮卷參加|
 | | 2014 | [FACEBOOK REPORT](./MyProject/FBReport/) |  C#  | ✗ |✔ |透過FB來串朋友之間關係|
-|★| 2014 | [大兵日記](./MyProject/Dabing/) |  C#  | ✗ |✗ |數饅頭的日子|
+|★| 2014 | [大兵日記](./MyProject/Dabing/) |  C#  | ✔ |✔ |數饅頭的日子|
 

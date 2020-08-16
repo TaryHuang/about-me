@@ -1,0 +1,82 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="English.EN_MYLOVE"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" xmlns:my="clr-namespace:OpenXLive.Silverlight.Controls;assembly=OpenXLive.Silverlight">
+
+    <!--LayoutRoot 包含放置所有其他頁面的根資料格-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama Margin="0,0,0,0" Name="MYFORM">
+            <controls:PanoramaItem Header="英文測驗" Name="MYTEST" Margin="0,0,0,0">
+                <Grid>
+
+                    <ScrollViewer Height="680" HorizontalAlignment="Left" Name="scrollViewer1" VerticalAlignment="Top" Margin="0,-30,0,0" Width="416">
+                        <Grid>
+                            <Button x:Name="addTile" Margin="0,-12,-2,0" Click="addTile_Click" BorderThickness="0" Width="60" Height="50"  VerticalAlignment="Top" HorizontalAlignment="Right">
+                                <Button.Background>
+                                    <ImageBrush ImageSource="/images/pin.png" Stretch="None"/>
+                                </Button.Background>
+                            </Button>
+                            
+                            <Button Content="開始測驗" FontSize="28" Height="80" Name="test" Width="164" Click="test_Click" Background="Red" Margin="0,22,12,0" VerticalAlignment="Top" HorizontalAlignment="Right" />
+                            <Grid Name="Grid_showT" VerticalAlignment="Top" HorizontalAlignment="Left" />
+                            <TextBlock Height="51" Name="textBlock2" Text="單字入庫日期：" FontSize="28" Width="208" Margin="5,196,203,653" />
+
+                            <TextBlock FontSize="28" Height="43" HorizontalAlignment="Left" Margin="4,317,0,0" Name="textBlock4" Text="開頭字母" VerticalAlignment="Top" Width="230" />
+                            <my:WrapPanel Height="450" HorizontalAlignment="Right" Margin="0,364,0,0" Name="body" Orientation="Horizontal" VerticalAlignment="Top" Width="406"></my:WrapPanel>
+                            <TextBlock FontSize="28" Height="51" Margin="5,80,203,768" Name="textBlock5" Text="單字類別：" Width="208" />
+                            <StackPanel Height="73" HorizontalAlignment="Left" Margin="12,110,0,0" Name="stackPanel1" VerticalAlignment="Top" Width="402" Orientation="Horizontal">
+                                <RadioButton Content="全部" Height="71" Name="radioCtype1" FontSize="20" IsChecked="True" />
+                                <RadioButton Content="系統單字" Height="71" Name="radioCtype2" FontSize="20" />
+                                <RadioButton Content="自訂單字" Height="71" Name="radioCtype3" FontSize="20" />
+                            </StackPanel>
+                            <StackPanel Height="79" HorizontalAlignment="Left" Margin="18,239,0,0" Name="G_DATE" VerticalAlignment="Top" Width="394" Orientation="Horizontal" />
+                        </Grid>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PanoramaItem>
+            <!--Panorama 項目 1-->
+            <controls:PanoramaItem Header="查詢題庫" Name="MYLOVE" Margin="0,0,0,0">
+                <Grid>
+                    <ListBox Height="540" HorizontalAlignment="Left" Margin="0,140,0,0" Name="LISTBOX_DATA" VerticalAlignment="Top" Width="410" />
+                    <Grid Height="170" HorizontalAlignment="Left" Margin="7,-32,0,0" Name="BAR_SEARCH" VerticalAlignment="Top" Width="403">
+                        <TextBox Height="72" HorizontalAlignment="Left" Margin="-4,102,0,0" Name="SEARCH" Text="" VerticalAlignment="Top" Width="305" KeyDown="SEARCH_KeyDown" />
+                        <Button Content="搜尋" Height="72" Margin="0,102,0,0" Name="BTN_SEARCH" VerticalAlignment="Top" Click="BTN_SEARCH_Click" HorizontalAlignment="Right" Width="120" />
+                        <TextBlock Height="30" HorizontalAlignment="Left" Margin="6,7,0,0" Name="textBlock1" Text="排序方式：" VerticalAlignment="Top" FontSize="24" />
+                        <RadioButton Content="單字" Height="72" HorizontalAlignment="Left" Margin="120,-10,0,0" Name="radio_EWORD" VerticalAlignment="Top" FontSize="20" BorderThickness="0" />
+                        <RadioButton Content="入庫日期" Height="72" HorizontalAlignment="Left" Margin="234,-11,0,0" Name="radio_DATE" VerticalAlignment="Top" FontSize="20" Width="156" BorderThickness="0" IsChecked="True" />
+                        <TextBlock FontSize="24" Margin="5,60,277,69" Name="textBlock7" Text="單字類別：" />
+                        <StackPanel Height="73" HorizontalAlignment="Right" Margin="0,44,-33,0" Name="stackPanel2" Orientation="Horizontal" VerticalAlignment="Top" Width="316">
+                            <RadioButton Content="系統單字" FontSize="20" Height="71" Name="radioCtypeS1" IsChecked="True" />
+                            <RadioButton Content="自訂單字" FontSize="20" Height="71" Name="radioCtypeS2" />
+                        </StackPanel>
+                    </Grid>
+                    <Button Content="選取移除" Height="72" HorizontalAlignment="Left" Margin="292,-90,0,0" Name="BTN1" VerticalAlignment="Top" Width="153" BorderBrush="Transparent" Click="BTN1_Click" BorderThickness="0" />
+                    <StackPanel  Name="BAR_BOTTOM" Width="400" Orientation="Horizontal"  VerticalAlignment="Bottom"  HorizontalAlignment="Right" Visibility="Collapsed"  FlowDirection="RightToLeft" >
+                        <Button Content="取消選取" Height="71" Name="CLEAR" Width="136" BorderBrush="Transparent" FontSize="20" Click="CLEAR_Click"  />
+                        <Button BorderBrush="Transparent" Content="全部選取" Height="71" Name="ALL" Width="129" FontSize="20" Click="ALL_Click" />
+                    </StackPanel>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama 項目 2-->
+        </controls:Panorama>
+        <StackPanel Height="775" HorizontalAlignment="Left" Margin="10,13,0,0" Name="BAR_testNum" VerticalAlignment="Top" Width="458" Visibility="Collapsed">
+            <TextBlock Height="84" Name="textBlock6" Text="選擇題型：" FontSize="72" Width="437" />
+            <ListBox Height="664" Name="listBox_testbtn" Width="460" />
+        </StackPanel>
+    </Grid>
+
+    <!--Panorama 應用程式不應該顯示 ApplicationBar-->
+
+</phone:PhoneApplicationPage>

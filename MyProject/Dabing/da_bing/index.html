@@ -1,0 +1,171 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>大兵日記</title>
+
+<link rel="stylesheet" href="dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="dist/css/bootstrap-theme.min.css">
+<script src="dist/assets/js/jquery.js"></script>
+<script src="dist/js/bootstrap.js"></script>
+<script>
+
+var url=window.location.toString(); //取得當前網址   
+var str=""; //參數中等號左邊的值   
+var str_value=""; //參數中等號右邊的值   
+if(url.indexOf("?")!=-1){   
+    //如果網址有"?"符號   
+    var ary=url.split("?")[1].split("&");   
+    //取得"?"右邊網址後利用"&"分割字串存入ary陣列 ["a=1","b=2","c=3"]   
+    for(var i in ary){   
+        //取得陣列長度去跑迴圈，如:網址有三個參數，則會跑三次   
+        str=ary[i].split("=")[0];   
+        //取得參數"="左邊的值存入str變數中   
+        if (str == "q") {   
+        //若str等於想要抓取參數 如:b   
+            str_value = decodeURI(ary[i].split("=")[1]);   
+            //取得b等號右邊的值並經過中文轉碼後存入str_value   
+        }   
+    }   
+}
+
+if(str_value==""){
+str_value="00";
+}
+
+tube_keys=str_value;//顯示參數的值 
+</script>
+</head>
+
+<body>
+
+   <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="./" id="btn_index">大兵日記()</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			
+			
+
+				<ul class="nav navbar-nav">
+
+          <a class="navbar-brand" href="#" id="btn_prev">< PREV</a>
+
+                </ul>		
+
+
+
+                
+                
+			   <ul class="nav navbar-nav navbar-right">
+
+          <a class="navbar-brand" href="#"  id="btn_next">NEXT ></a>
+                </ul>
+
+        </div><!-- /.nav-collapse -->
+        
+        
+
+
+      </div><!-- /.container -->
+    </div><!-- /.navbar -->
+
+
+<br><br><br>
+<div class="container" id="walls">
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+<script>
+
+
+
+
+
+
+
+
+
+$("#btn_prev").click(function(){
+	PREV(tube_keys);
+})
+
+$("#btn_next").click(function(){
+	NEXT(tube_keys);
+})
+
+
+function PREV(KEY){
+	
+	p = KEY;
+	p--;
+	
+	if(p>-1){
+		if(p<10)
+			window.location.href='?q=0'+p;
+		else
+			window.location.href='?q='+p;
+	}//if
+
+}
+
+
+
+function NEXT(KEY){
+
+p = KEY;
+p++;
+
+	if(p<=46){
+		if(p<10)
+			window.location.href='?q=0'+p;
+		else
+			window.location.href='?q='+p;
+	}//if
+
+}
+
+
+
+//載入HTML
+
+$("#walls").load("html/"+tube_keys+".html");
+
+
+var show=str_value;
+show=show.replace("#","");
+
+
+if(show=="00"){
+	$("#btn_index").html("大兵日記 ");
+}else{
+	$("#btn_index").html("大兵日記 ("+show+") ");
+}
+
+
+</script>

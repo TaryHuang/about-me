@@ -1,0 +1,43 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="English.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI">
+
+    <!--LayoutRoot 是放置所有頁面的根資料格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--TitlePanel 包含應用程式的名稱和頁面標題-->
+        <StackPanel x:Name="TitlePanel" Margin="0,0,0,656" Background="{x:Null}">
+            <TextBlock x:Name="PageTitle" Text="英文失敗者" Margin="0,30,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="64" TextAlignment="Center" Width="422" FontStyle="Normal" FontWeight="Bold" />
+        </StackPanel>
+        <StackPanel Height="580" HorizontalAlignment="Left" Margin="0,150,0,0" Name="stackPanel1" VerticalAlignment="Top" Width="480" Background="{x:Null}">
+            <Button Content="開  始  測  驗" Height="115" Name="MYWORD" Width="366" Click="MYWORD_Click" FontSize="36" Margin="0,20,0,30" BorderBrush="Transparent" />
+            <Button Content="英文單字題庫" Height="115" Name="EN_1000" Width="366" Click="EN_1000_Click" FontSize="36" BorderBrush="Transparent" />
+            <Button Content="動詞三態整理" Height="115" Name="EN_V3" Width="366" Click="EN_V3_Click" FontSize="36" BorderBrush="Transparent" />
+            <Button Content="關  於   作  者" FontSize="36" Height="115" Name="button2" Width="366" Click="button2_Click" BorderBrush="Transparent"  Margin="0,0,0,30"/>
+        </StackPanel>
+        <!--ContentPanel - 其他內容置於此-->
+    </Grid>
+ 
+    <!--顯示 ApplicationBar 使用方式的程式碼範例-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="按鈕 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="按鈕 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="功能表項目 1"/>
+                <shell:ApplicationBarMenuItem Text="功能表項目 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

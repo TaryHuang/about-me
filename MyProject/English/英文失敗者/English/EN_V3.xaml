@@ -1,0 +1,99 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="English.EN_V3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="728"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot 包含放置所有其他頁面的根資料格-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama Margin="0,80,0,0" ItemsSource="{Binding}" >
+
+            <!--Panorama 項目 1-->
+            <controls:PanoramaItem Header="" Name="AAA" IsEnabled="True" FontSize="8">
+                <Grid>
+                    <TextBlock Name="T_AAA" Height="50" Margin="0,0,0,0" Text="" VerticalAlignment="Top" FontSize="32" />
+                    <ListBox  Name="listBox_AAA" Width="400" Margin="0,50,0,0" />
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama 項目 2-->
+            <controls:PanoramaItem Header="" Name="ABA" FontSize="12">
+                <Grid>
+                    <TextBlock Name="T_ABA"  Height="50" Margin="0,0,0,0" Text="" VerticalAlignment="Top" FontSize="32" />
+                    <ListBox  Name="listBox_ABA" Width="400" Margin="0,50,0,0" />
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama 項目 3-->
+            <controls:PanoramaItem Header=""  Name="ABB" FontSize="8">
+                <Grid>
+                    <TextBlock Name="T_ABB" Height="50" Margin="0,0,0,0" Text="" VerticalAlignment="Top" FontSize="32" />
+                    <ListBox  Name="listBox_ABB" Width="400" Margin="0,50,0,0" />
+                </Grid>
+            </controls:PanoramaItem>
+
+
+            <!--Panorama 項目 4-->
+            <controls:PanoramaItem Header=""  Name="ABC">
+                <Grid>
+                    <TextBlock Name="T_ABC" Height="50" Margin="0,0,0,0" Text="" VerticalAlignment="Top" FontSize="32" />
+                    <ListBox Name="listBox_ABC" Width="400"  Margin="0,50,0,0" />
+                </Grid>
+            </controls:PanoramaItem>
+        </controls:Panorama>
+        <TextBlock Height="82" Margin="12,12,62,0" Name="TITLE" Text="請稍候..." VerticalAlignment="Top" FontSize="64" />
+    </Grid>
+
+    <!--Panorama 應用程式不應該顯示 ApplicationBar-->
+    <!--顯示 ApplicationBar 使用方式的程式碼範例-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">        
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="動詞單字 20題" x:Name="btnA_20" Click="btnA_20_Click" />
+                <shell:ApplicationBarMenuItem Text="動詞克漏字 20題" x:Name="btnB_20" Click="btnB_20_Click" />
+                <shell:ApplicationBarMenuItem Text="動詞三態 20題" x:Name="btnC_20" Click="btnC_20_Click" />
+                <shell:ApplicationBarMenuItem Text="動詞過去 20題" x:Name="btnD_20" Click="btnD_20_Click" />
+                <shell:ApplicationBarMenuItem Text="動詞過去分詞 20題" x:Name="btnE_20" Click="btnE_20_Click" />
+
+
+                <shell:ApplicationBarMenuItem Text="動詞單字 50題" x:Name="btnA_50" Click="btnA_50_Click" />
+
+                <shell:ApplicationBarMenuItem Text="動詞克漏字 50題" x:Name="btnB_50" Click="btnB_50_Click" />
+
+                <shell:ApplicationBarMenuItem Text="動詞三態 50題" x:Name="btnC_50" Click="btnC_50_Click" />
+                <shell:ApplicationBarMenuItem Text="動詞過去 50題" x:Name="btnD_50" Click="btnD_50_Click" />
+
+
+                <shell:ApplicationBarMenuItem Text="動詞過去分詞 50題" x:Name="btnE_50" Click="btnE_50_Click" />
+
+
+                <shell:ApplicationBarMenuItem Text="動詞單字 80題" x:Name="btnA_80" Click="btnA_80_Click" />
+
+
+                <shell:ApplicationBarMenuItem Text="動詞克漏字 80題" x:Name="btnB_80" Click="btnB_80_Click" />
+
+                
+
+                <shell:ApplicationBarMenuItem Text="動詞三態 80題" x:Name="btnC_80" Click="btnC_80_Click" />
+
+
+
+                <shell:ApplicationBarMenuItem Text="動詞過去 80題" x:Name="btnD_80" Click="btnD_80_Click" />
+                
+
+                <shell:ApplicationBarMenuItem Text="動詞過去分詞 80題" x:Name="btnE_80" Click="btnE_80_Click" />
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
