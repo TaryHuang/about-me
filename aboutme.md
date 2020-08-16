@@ -21,10 +21,22 @@
 * [2012 - 章魚哥的球  (C# + XNA源碼) ★](./MyProject/Bobo/)
 
 
-| 年份 |作品名稱  |程式語言  |提供源碼  |備註  |
-| --- | --- | --- | --- | --- |
-| 2006 | [論壇架站機器](./Project/Flash_http/) | PHP | ✔ | 高中作品 |
-| 2006 | [收集者Blog](./Project/Blog/) | PHP | ✗ | 高中作品 |
+|精 選  | 年 份 |作品名稱  |程式語言  |可運行  |提供源碼  |備 註  |
+| --- | --- | --- | --- | --- | --- |--- |
+|  | 2006 | [論壇架站機器](./Project/Flash_http/) | PHP |✔ | ✔ | 高中作品 |
+|  | 2007 | [收集者Blog架站機](./Project/Blog/) | PHP | ✔ |✔ | 高中作品 |
+|  | 2008 | [希望Online回憶錄](./Project/Flash/) | FLASH | ✔ |✗ | 記錄遊戲 |
+|  | 2009 | [Gblog2.0架站機](./Project/Gblog/) | PHP | ✔ |✔ | 收集網路文章而生 |
+|★| 2010 | [赤坂拉麵](./Project/noodles/) | VB | ✔ |✗ | 大學作業 |
+|★| 2010 | [競賽遊戲設計](./Project/CarGame/) | VB | ✔ |✗ | 大學作業 |
+|  | 2011 | [DatabaseTool](./Project/Gblog/) | C# | ✗ |✗ | 便利資料庫連線 |
+|  | 2009 | [全台主題樂園](./Project/park/) | PHP | ✔ |✔ | 大學專題 |
+|  | 2009 | [Window Phone 7 App](./Project/WindowPhone7app/) | C# | ✗ |✔ | 第一次芒果手機開發 |
+|  | 2009 | [Winwodw 7登入檔](./Project/WindowPhone7app/) | C# | ✔ |✗ | Window7上帝模式 |
+|  | 2009 | [Nokia Window Phone 挑戰賽](./Project/WindowPhone7app/) | C# | ✗ |✔ |  |
+|★| 2009 | [最終戰機](./Project/hero/) |  C# + XNA | ✗ |✔ |遊戲的開始|
+|★| 2009 | [格子塗鴉牆](./Project/wall/) |  C# + XNA | ✗ |✗ |2012臺北國際數位內容設計競賽|
+|★| 2009 | [章魚哥的球](./Project/Bobo/) |  C# + XNA | ✗ |✔ |2012臺北國際數位內容設計競賽|
 
 ## 计划
 
