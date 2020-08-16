@@ -24,8 +24,8 @@
 |  | 2012 | [老師晚點名](./MyProject/Rollcall/) |  C# | ✗ |✗ |微軟30小時不間斷Coding |
 |  | 2012 | [汽機車筆試](./MyProject/Moto/) |  C#  | ✗ |✗ |為了考駕照筆試..|
 |★| 2013 | [英文失敗者](./MyProject/English/) |  C#  | ✗ |✔ |為了磨練英文..|
-|★| 2014 | [Photo秘書](./MyProject/photo/) |  C#  | ✗ |✗ |參考來源美圖秀秀|
+|★| 2014 | [Photo秘書](./MyProject/photo/) |  C#  | ✗ |✔ |參考來源美圖秀秀|
 | | 2014 | [技術達人挑戰賽](./MyProject/MasterDev/) |  C#  | ✗ |✔ |為了Serven禮卷參加|
 | | 2014 | [FACEBOOK REPORT](./MyProject/FBReport/) |  C#  | ✗ |✔ |透過FB來串朋友之間關係|
-|★| 2014 | [大兵日記](./MyProject/Dabing/) |  C#  | ✔ |✔ |數饅頭的日子|
+|★| 2014 | [大兵日記](./MyProject/Dabing/) |  HTML  | ✔ |✔ |數饅頭的日子|
 
