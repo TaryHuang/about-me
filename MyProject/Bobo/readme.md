@@ -6,11 +6,10 @@
 
 程式語言 : C# + XNA Framework 
 
-原始碼：
+原始碼：https://github.com/TaryHuang/Bobo
+
 
 ![avatar](./image/09.png)
-
-
 
 
 ## 遊戲畫面

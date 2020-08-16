@@ -8,7 +8,7 @@
 
 工期約 : 1個月半 (含測試) 
 
-原始碼：
+原始碼：https://github.com/TaryHuang/FINAL-FIGHTER
 
 遊戲片段：https://www.youtube.com/watch?v=Z86cXK3QjgU 
 
