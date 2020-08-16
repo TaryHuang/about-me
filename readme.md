@@ -17,24 +17,14 @@
 |  | 2011 | [全台主題樂園](./MyProject/park/) | PHP | ✔ |✔ | 大學專題 |
 |  | 2011 | [Window Phone 7 App](./MyProject/WindowPhone7app/) | C# | ✗ |✔ | 第一次芒果手機開發 |
 |★| 2012 | [Winwodw 7登入檔](./MyProject/WindowRegiter/) | C# | ✔ |✗ | Window7上帝模式 |
-|  | 2012 | [Nokia Window Phone 挑戰賽](./MyProject/NokiaWindowPhone/) | C# | ✗ |✔ |  |
+|  | 2012 | [Nokia Window Phone 挑戰賽](./MyProject/NokiaWindowPhone/) | C# | ✗ |✔ | 為了1台Nokia手機 |
 |★| 2012 | [最終戰機](./MyProject/hero/) |  C# + XNA | ✗ |✔ |第1款自己設計遊戲|
 |★| 2012 | [格子塗鴉牆](./MyProject/wall/) |  C# + XNA | ✗ |✗ |2012臺北國際數位內容設計競賽|
 |★| 2012 | [章魚哥的球](./MyProject/Bobo/) |  C# + XNA | ✗ |✔ |2012臺北國際數位內容設計競賽|
+|  | 2012 | [老師晚點名](./MyProject/Rollcall/) |  C# | ✗ |✗ |微軟30小時不間斷Coding |
+|  | 2012 | [汽機車筆試](./MyProject/Moto/) |  C#  | ✗ |✗ |為了考駕照筆試..|
+|★| 2013 | [英文失敗者](./MyProject/English/) |  C#  | ✗ |✗ |為了磨練英文..|
+|★| 2013 | [Photo秘書](./MyProject/Photo/) |  C#  | ✗ |✗ |參考..美圖秀秀|
 
 
-
-
-
-
-## 计划
-分三个阶段：
-* 规范阶段（5.10 完成）
-    * 拟订规范初稿
-    * 经讨论完成规范定稿
-* 工具阶段（待定）
-    * 完善语言规范的配套检查、格式化工具
-    * 完成目录结构的脚手架工具
-* 实施阶段（待定）
-    * 工具初步完善后逐步推广使用
 
