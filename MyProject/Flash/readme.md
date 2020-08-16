@@ -7,10 +7,10 @@
 
 ## 畫面
 
-![avatar](./image/01.png)
+![avatar](./Image/01.png)
 
-![avatar](./image/02.png)
+![avatar](./Image/02.png)
 
-![avatar](./image/03.png)
+![avatar](./Image/03.png)
 
-![avatar](./image/04.png)
+![avatar](./Image/04.png)
