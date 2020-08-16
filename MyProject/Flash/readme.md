@@ -5,7 +5,7 @@
 
 程式語言 : FLASH
 
-## 畫面
+## 程式畫面
 
 ![avatar](./Image/01.png)
 
