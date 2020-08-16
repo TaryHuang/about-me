@@ -7,7 +7,7 @@
 
 |精 選  | 年 份 |作品名稱  |程式語言  |可運行  |提供源碼  |備 註  |
 | --- | --- | --- | --- | --- | --- |--- |
-|  | 2006 | [論壇架站機器](./MyProject/Flash_http/) | PHP |✔ | ✔ | 高中作品 |
+|  | 2006 | [論壇架站機器](./MyProject/Flash_http/) | PHP |✔ | ✔ | 高中作品 參考來源:台灣論壇|
 |  | 2007 | [收集者Blog架站機](./MyProject/Blog/) | PHP | ✔ |✔ | 高中作品 |
 |  | 2008 | [希望Online回憶錄](./MyProject/Flash/) | FLASH | ✔ |✗ | 遊戲回憶 |
 |  | 2009 | [Gblog2.0架站機](./MyProject/Gblog/) | PHP | ✔ |✔ | 收集網路文章而生 |
@@ -24,7 +24,8 @@
 |  | 2012 | [老師晚點名](./MyProject/Rollcall/) |  C# | ✗ |✗ |微軟30小時不間斷Coding |
 |  | 2012 | [汽機車筆試](./MyProject/Moto/) |  C#  | ✗ |✗ |為了考駕照筆試..|
 |★| 2013 | [英文失敗者](./MyProject/English/) |  C#  | ✗ |✗ |為了磨練英文..|
-|★| 2013 | [Photo秘書](./MyProject/photo/) |  C#  | ✗ |✗ |參考..美圖秀秀|
-
-
+|★| 2014 | [Photo秘書](./MyProject/photo/) |  C#  | ✗ |✗ |參考來源美圖秀秀|
+| | 2014 | [技術達人挑戰賽](./MyProject/MasterDev/) |  C#  | ✗ |✗ |為了Serven禮卷參加|
+| | 2014 | [FReport](./MyProject/FReport/) |  C#  | ✗ |✗ |透過FB來串朋友之間關係|
+| | 2014 | [大兵日記](./MyProject/Dabing/) |  C#  | ✗ |✗ |數饅頭的日子|
 
