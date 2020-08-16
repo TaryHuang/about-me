@@ -18,7 +18,7 @@
 * [2012 - Nokia Window Phone 挑戰賽  (C#)](./MyProject/NokiaWindowPhone/)
 * [2012 - 格子塗鴉牆  (C# + XNA) ★](./MyProject/wall/readme.md)
 * [2012 - 最終戰機  (C# + XNA源碼) ★](./MyProject/hero/readme.md)
-* [2012 - 章魚哥的球  (C# + XNA源碼) ★](./MyProject/bobo/readme.md)
+* [2012 - 章魚哥的球  (C# + XNA源碼) ★](./MyProject/Bobo/readme.md)
 
 
 

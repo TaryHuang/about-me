@@ -1,3 +1,4 @@
+## 最終戰機 (FINAL FIGHTER)
 
 屬性 : WINDOW PHONE APP 
 
@@ -15,8 +16,8 @@
 
 
 
-## 遊戲畫面
 
+## 遊戲畫面
 
 ![avatar](./image/1.png)
 
