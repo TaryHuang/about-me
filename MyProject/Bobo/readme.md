@@ -12,13 +12,14 @@
 
 
 
+
 ## 遊戲畫面
 
-![avatar](./image/01.png)
+![avatar](./image/01.jpg)
 
-![avatar](./image/02.png)
+![avatar](./image/02.jpg)
 
-![avatar](./image/03.png)
+![avatar](./image/03.jpg)
 
 ![avatar](./image/04.png)
 
@@ -26,4 +27,6 @@
 
 ![avatar](./image/06.png)
 
+![avatar](./image/07.png)
 
+![avatar](./image/09.png)
